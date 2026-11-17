@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.pytest_cache/
+.ruff_cache/
+# generated at first run (demo database, telemetry, server logs)
+/data/
+# eval run logs and raw video frames
+evals/results/*.log
+docs/demo/raw/
