@@ -1,0 +1,5205 @@
+{
+ "brand": "GoodFoods",
+ "city": "Bengaluru",
+ "areas": {
+  "Indiranagar": {
+   "lat": 12.9719,
+   "lng": 77.6412,
+   "pincode": "560038",
+   "aliases": [
+    "indira nagar",
+    "indranagar",
+    "hal 2nd stage",
+    "100 ft road",
+    "100 feet road"
+   ]
+  },
+  "Koramangala": {
+   "lat": 12.9352,
+   "lng": 77.6245,
+   "pincode": "560034",
+   "aliases": [
+    "kormangala",
+    "koramangla",
+    "kora",
+    "forum mall"
+   ]
+  },
+  "HSR Layout": {
+   "lat": 12.9116,
+   "lng": 77.6474,
+   "pincode": "560102",
+   "aliases": [
+    "hsr",
+    "h s r"
+   ]
+  },
+  "Whitefield": {
+   "lat": 12.9698,
+   "lng": 77.75,
+   "pincode": "560066",
+   "aliases": [
+    "itpl",
+    "white field",
+    "varthur"
+   ]
+  },
+  "Jayanagar": {
+   "lat": 12.9308,
+   "lng": 77.5838,
+   "pincode": "560041",
+   "aliases": [
+    "jaya nagar",
+    "jayangar"
+   ]
+  },
+  "JP Nagar": {
+   "lat": 12.9063,
+   "lng": 77.5857,
+   "pincode": "560078",
+   "aliases": [
+    "j p nagar",
+    "jpnagar",
+    "jp nagara"
+   ]
+  },
+  "MG Road": {
+   "lat": 12.9756,
+   "lng": 77.605,
+   "pincode": "560001",
+   "aliases": [
+    "m g road",
+    "mg rd",
+    "brigade road",
+    "residency road"
+   ]
+  },
+  "Church Street": {
+   "lat": 12.9745,
+   "lng": 77.6022,
+   "pincode": "560001",
+   "aliases": [
+    "church st"
+   ]
+  },
+  "Lavelle Road": {
+   "lat": 12.9707,
+   "lng": 77.5975,
+   "pincode": "560001",
+   "aliases": [
+    "lavelle rd",
+    "ub city",
+    "vittal mallya road"
+   ]
+  },
+  "Malleshwaram": {
+   "lat": 13.0031,
+   "lng": 77.5643,
+   "pincode": "560003",
+   "aliases": [
+    "malleswaram",
+    "malleshwaram",
+    "malleswara"
+   ]
+  },
+  "Rajajinagar": {
+   "lat": 12.991,
+   "lng": 77.552,
+   "pincode": "560010",
+   "aliases": [
+    "rajaji nagar",
+    "rajajinagara"
+   ]
+  },
+  "Basavanagudi": {
+   "lat": 12.9421,
+   "lng": 77.5753,
+   "pincode": "560004",
+   "aliases": [
+    "basavangudi",
+    "gandhi bazaar"
+   ]
+  },
+  "Banashankari": {
+   "lat": 12.9255,
+   "lng": 77.5468,
+   "pincode": "560070",
+   "aliases": [
+    "bsk",
+    "banashankari"
+   ]
+  },
+  "BTM Layout": {
+   "lat": 12.9166,
+   "lng": 77.6101,
+   "pincode": "560076",
+   "aliases": [
+    "btm",
+    "b t m"
+   ]
+  },
+  "Electronic City": {
+   "lat": 12.8452,
+   "lng": 77.6602,
+   "pincode": "560100",
+   "aliases": [
+    "e city",
+    "ecity",
+    "ec",
+    "electronics city",
+    "electronic city phase 1"
+   ]
+  },
+  "Marathahalli": {
+   "lat": 12.9591,
+   "lng": 77.6974,
+   "pincode": "560037",
+   "aliases": [
+    "marathalli",
+    "marthahalli"
+   ]
+  },
+  "Bellandur": {
+   "lat": 12.9304,
+   "lng": 77.6784,
+   "pincode": "560103",
+   "aliases": [
+    "orr",
+    "outer ring road",
+    "ecospace"
+   ]
+  },
+  "Sarjapur Road": {
+   "lat": 12.9121,
+   "lng": 77.6858,
+   "pincode": "560035",
+   "aliases": [
+    "sarjapur",
+    "sarjapura"
+   ]
+  },
+  "Brookefield": {
+   "lat": 12.9655,
+   "lng": 77.7185,
+   "pincode": "560037",
+   "aliases": [
+    "brookfield"
+   ]
+  },
+  "Hebbal": {
+   "lat": 13.0358,
+   "lng": 77.597,
+   "pincode": "560024",
+   "aliases": [
+    "manyata",
+    "manyata tech park"
+   ]
+  },
+  "Yelahanka": {
+   "lat": 13.1007,
+   "lng": 77.5963,
+   "pincode": "560064",
+   "aliases": [
+    "yelahanka new town"
+   ]
+  },
+  "Frazer Town": {
+   "lat": 12.998,
+   "lng": 77.615,
+   "pincode": "560005",
+   "aliases": [
+    "fraser town",
+    "cox town",
+    "pulikeshi nagar"
+   ]
+  },
+  "Ulsoor": {
+   "lat": 12.9817,
+   "lng": 77.6286,
+   "pincode": "560008",
+   "aliases": [
+    "halasuru",
+    "ulsoor lake"
+   ]
+  },
+  "Sadashivanagar": {
+   "lat": 13.0068,
+   "lng": 77.5813,
+   "pincode": "560080",
+   "aliases": [
+    "sadashiv nagar",
+    "sadashiva nagar"
+   ]
+  },
+  "Kalyan Nagar": {
+   "lat": 13.0221,
+   "lng": 77.6403,
+   "pincode": "560043",
+   "aliases": [
+    "kalyan nagara",
+    "hrbr",
+    "kammanahalli"
+   ]
+  },
+  "Domlur": {
+   "lat": 12.961,
+   "lng": 77.6387,
+   "pincode": "560071",
+   "aliases": [
+    "old airport road"
+   ]
+  },
+  "Vijayanagar": {
+   "lat": 12.9719,
+   "lng": 77.535,
+   "pincode": "560040",
+   "aliases": [
+    "vijaynagar",
+    "vijay nagar"
+   ]
+  }
+ },
+ "restaurants": [
+  {
+   "id": "tandoor-house-indiranagar",
+   "name": "Tandoor House, Indiranagar",
+   "brand": "Tandoor House",
+   "cuisine": "North Indian",
+   "cuisines": [
+    "North Indian",
+    "Mughlai"
+   ],
+   "tags": [
+    "north indian",
+    "mughlai",
+    "punjabi",
+    "tandoori",
+    "kebab",
+    "butter chicken",
+    "naan",
+    "indian",
+    "curry"
+   ],
+   "area": "Indiranagar",
+   "address": "45, Double Road, Indiranagar, Bengaluru 560038",
+   "lat": 12.97125,
+   "lng": 77.63913,
+   "price_band": 2,
+   "avg_cost_for_two": 1430,
+   "rating": 4.6,
+   "reviews": 2579,
+   "seats": 140,
+   "table_mix": {
+    "2": 10,
+    "4": 15,
+    "6": 6,
+    "8": 3
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "12:00",
+     "23:00"
+    ]
+   ],
+   "features": [
+    "kid_friendly",
+    "outdoor_seating",
+    "valet_parking",
+    "wheelchair_accessible"
+   ],
+   "dietary": [
+    "jain",
+    "vegan"
+   ],
+   "good_for": [
+    "family",
+    "friends",
+    "birthday",
+    "large_groups"
+   ],
+   "signature_dishes": [
+    "Dal Makhani",
+    "Murgh Malai Tikka",
+    "Butter Garlic Naan"
+   ],
+   "description": "Clay-oven classics, slow-cooked dals and generous family platters. Ask for the garden courtyard tables.",
+   "popularity": 1.0
+  },
+  {
+   "id": "tandoor-house-koramangala",
+   "name": "Tandoor House, Koramangala",
+   "brand": "Tandoor House",
+   "cuisine": "North Indian",
+   "cuisines": [
+    "North Indian",
+    "Mughlai"
+   ],
+   "tags": [
+    "north indian",
+    "mughlai",
+    "punjabi",
+    "tandoori",
+    "kebab",
+    "butter chicken",
+    "naan",
+    "indian",
+    "curry"
+   ],
+   "area": "Koramangala",
+   "address": "26, 5th Block, Koramangala, Bengaluru 560034",
+   "lat": 12.93157,
+   "lng": 77.62737,
+   "price_band": 2,
+   "avg_cost_for_two": 1350,
+   "rating": 4.5,
+   "reviews": 4063,
+   "seats": 104,
+   "table_mix": {
+    "2": 8,
+    "4": 12,
+    "6": 4,
+    "8": 2
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "12:00",
+     "23:00"
+    ]
+   ],
+   "features": [
+    "kid_friendly",
+    "outdoor_seating",
+    "valet_parking",
+    "wheelchair_accessible"
+   ],
+   "dietary": [
+    "jain",
+    "vegan"
+   ],
+   "good_for": [
+    "family",
+    "friends",
+    "birthday",
+    "large_groups"
+   ],
+   "signature_dishes": [
+    "Dal Makhani",
+    "Murgh Malai Tikka",
+    "Butter Garlic Naan"
+   ],
+   "description": "Clay-oven classics, slow-cooked dals and generous family platters. Kids' menu and high chairs available.",
+   "popularity": 1.0
+  },
+  {
+   "id": "tandoor-house-jayanagar",
+   "name": "Tandoor House, Jayanagar",
+   "brand": "Tandoor House",
+   "cuisine": "North Indian",
+   "cuisines": [
+    "North Indian",
+    "Mughlai"
+   ],
+   "tags": [
+    "north indian",
+    "mughlai",
+    "punjabi",
+    "tandoori",
+    "kebab",
+    "butter chicken",
+    "naan",
+    "indian",
+    "curry"
+   ],
+   "area": "Jayanagar",
+   "address": "33, 9th Block, Jayanagar, Bengaluru 560041",
+   "lat": 12.92728,
+   "lng": 77.58145,
+   "price_band": 2,
+   "avg_cost_for_two": 1470,
+   "rating": 4.3,
+   "reviews": 3291,
+   "seats": 116,
+   "table_mix": {
+    "2": 9,
+    "4": 13,
+    "6": 5,
+    "8": 2
+   },
+   "private_dining_capacity": 20,
+   "hours": [
+    [
+     "12:00",
+     "23:00"
+    ]
+   ],
+   "features": [
+    "bar",
+    "kid_friendly",
+    "private_dining",
+    "wheelchair_accessible"
+   ],
+   "dietary": [
+    "jain",
+    "vegan"
+   ],
+   "good_for": [
+    "family",
+    "friends",
+    "birthday",
+    "large_groups"
+   ],
+   "signature_dishes": [
+    "Dal Makhani",
+    "Murgh Malai Tikka",
+    "Butter Garlic Naan"
+   ],
+   "description": "Clay-oven classics, slow-cooked dals and generous family platters. Kids' menu and high chairs available. Private dining room for up to 20 guests.",
+   "popularity": 0.7
+  },
+  {
+   "id": "tandoor-house-whitefield",
+   "name": "Tandoor House, Whitefield",
+   "brand": "Tandoor House",
+   "cuisine": "North Indian",
+   "cuisines": [
+    "North Indian",
+    "Mughlai"
+   ],
+   "tags": [
+    "north indian",
+    "mughlai",
+    "punjabi",
+    "tandoori",
+    "kebab",
+    "butter chicken",
+    "naan",
+    "indian",
+    "curry"
+   ],
+   "area": "Whitefield",
+   "address": "42, Varthur Road, Whitefield, Bengaluru 560066",
+   "lat": 12.9682,
+   "lng": 77.74996,
+   "price_band": 2,
+   "avg_cost_for_two": 1370,
+   "rating": 4.4,
+   "reviews": 1944,
+   "seats": 150,
+   "table_mix": {
+    "2": 11,
+    "4": 17,
+    "6": 6,
+    "8": 3
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "12:00",
+     "23:00"
+    ]
+   ],
+   "features": [
+    "bar",
+    "kid_friendly",
+    "outdoor_seating",
+    "wheelchair_accessible"
+   ],
+   "dietary": [
+    "jain",
+    "vegan"
+   ],
+   "good_for": [
+    "family",
+    "friends",
+    "birthday",
+    "large_groups"
+   ],
+   "signature_dishes": [
+    "Dal Makhani",
+    "Murgh Malai Tikka",
+    "Butter Garlic Naan"
+   ],
+   "description": "Clay-oven classics, slow-cooked dals and generous family platters. Ask for the garden courtyard tables.",
+   "popularity": 0.78
+  },
+  {
+   "id": "tandoor-house-malleshwaram",
+   "name": "Tandoor House, Malleshwaram",
+   "brand": "Tandoor House",
+   "cuisine": "North Indian",
+   "cuisines": [
+    "North Indian",
+    "Mughlai"
+   ],
+   "tags": [
+    "north indian",
+    "mughlai",
+    "punjabi",
+    "tandoori",
+    "kebab",
+    "butter chicken",
+    "naan",
+    "indian",
+    "curry"
+   ],
+   "area": "Malleshwaram",
+   "address": "392, Margosa Road, Malleshwaram, Bengaluru 560003",
+   "lat": 13.00368,
+   "lng": 77.5673,
+   "price_band": 2,
+   "avg_cost_for_two": 1360,
+   "rating": 4.5,
+   "reviews": 3547,
+   "seats": 150,
+   "table_mix": {
+    "2": 11,
+    "4": 17,
+    "6": 6,
+    "8": 3
+   },
+   "private_dining_capacity": 17,
+   "hours": [
+    [
+     "12:00",
+     "23:00"
+    ]
+   ],
+   "features": [
+    "kid_friendly",
+    "outdoor_seating",
+    "private_dining",
+    "valet_parking",
+    "wheelchair_accessible"
+   ],
+   "dietary": [
+    "jain",
+    "vegan"
+   ],
+   "good_for": [
+    "family",
+    "friends",
+    "birthday",
+    "large_groups"
+   ],
+   "signature_dishes": [
+    "Dal Makhani",
+    "Murgh Malai Tikka",
+    "Butter Garlic Naan"
+   ],
+   "description": "Clay-oven classics, slow-cooked dals and generous family platters. Ask for the garden courtyard tables. Private dining room for up to 17 guests.",
+   "popularity": 0.79
+  },
+  {
+   "id": "tandoor-house-marathahalli",
+   "name": "Tandoor House, Marathahalli",
+   "brand": "Tandoor House",
+   "cuisine": "North Indian",
+   "cuisines": [
+    "North Indian",
+    "Mughlai"
+   ],
+   "tags": [
+    "north indian",
+    "mughlai",
+    "punjabi",
+    "tandoori",
+    "kebab",
+    "butter chicken",
+    "naan",
+    "indian",
+    "curry"
+   ],
+   "area": "Marathahalli",
+   "address": "375, Marathahalli Bridge Road, Bengaluru 560037",
+   "lat": 12.96028,
+   "lng": 77.70134,
+   "price_band": 2,
+   "avg_cost_for_two": 1510,
+   "rating": 4.5,
+   "reviews": 1701,
+   "seats": 144,
+   "table_mix": {
+    "2": 10,
+    "4": 16,
+    "6": 6,
+    "8": 3
+   },
+   "private_dining_capacity": 23,
+   "hours": [
+    [
+     "12:00",
+     "23:00"
+    ]
+   ],
+   "features": [
+    "bar",
+    "kid_friendly",
+    "outdoor_seating",
+    "private_dining",
+    "valet_parking",
+    "wheelchair_accessible"
+   ],
+   "dietary": [
+    "jain",
+    "vegan"
+   ],
+   "good_for": [
+    "family",
+    "friends",
+    "birthday",
+    "large_groups"
+   ],
+   "signature_dishes": [
+    "Dal Makhani",
+    "Murgh Malai Tikka",
+    "Butter Garlic Naan"
+   ],
+   "description": "Clay-oven classics, slow-cooked dals and generous family platters. Ask for the garden courtyard tables. Private dining room for up to 23 guests.",
+   "popularity": 0.85
+  },
+  {
+   "id": "tandoor-house-yelahanka",
+   "name": "Tandoor House, Yelahanka",
+   "brand": "Tandoor House",
+   "cuisine": "North Indian",
+   "cuisines": [
+    "North Indian",
+    "Mughlai"
+   ],
+   "tags": [
+    "north indian",
+    "mughlai",
+    "punjabi",
+    "tandoori",
+    "kebab",
+    "butter chicken",
+    "naan",
+    "indian",
+    "curry"
+   ],
+   "area": "Yelahanka",
+   "address": "394, Doddaballapur Road, Yelahanka, Bengaluru 560064",
+   "lat": 13.09773,
+   "lng": 77.59428,
+   "price_band": 2,
+   "avg_cost_for_two": 1380,
+   "rating": 4.3,
+   "reviews": 1683,
+   "seats": 132,
+   "table_mix": {
+    "2": 10,
+    "4": 15,
+    "6": 6,
+    "8": 2
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "12:00",
+     "23:00"
+    ]
+   ],
+   "features": [
+    "kid_friendly",
+    "valet_parking",
+    "wheelchair_accessible"
+   ],
+   "dietary": [
+    "jain",
+    "vegan"
+   ],
+   "good_for": [
+    "family",
+    "friends",
+    "birthday",
+    "large_groups"
+   ],
+   "signature_dishes": [
+    "Dal Makhani",
+    "Murgh Malai Tikka",
+    "Butter Garlic Naan"
+   ],
+   "description": "Clay-oven classics, slow-cooked dals and generous family platters. Kids' menu and high chairs available.",
+   "popularity": 0.62
+  },
+  {
+   "id": "dosa-republic-jayanagar",
+   "name": "Dosa Republic, Jayanagar",
+   "brand": "Dosa Republic",
+   "cuisine": "South Indian",
+   "cuisines": [
+    "South Indian",
+    "Udupi"
+   ],
+   "tags": [
+    "south indian",
+    "dosa",
+    "idli",
+    "vada",
+    "udupi",
+    "filter coffee",
+    "breakfast",
+    "veg",
+    "indian",
+    "tiffin"
+   ],
+   "area": "Jayanagar",
+   "address": "362, 30th Cross Road, Jayanagar, Bengaluru 560041",
+   "lat": 12.93469,
+   "lng": 77.58526,
+   "price_band": 1,
+   "avg_cost_for_two": 490,
+   "rating": 4.7,
+   "reviews": 2260,
+   "seats": 72,
+   "table_mix": {
+    "2": 11,
+    "4": 11,
+    "6": 1
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "07:30",
+     "22:30"
+    ]
+   ],
+   "features": [
+    "kid_friendly",
+    "outdoor_seating",
+    "quiet",
+    "wheelchair_accessible"
+   ],
+   "dietary": [
+    "jain",
+    "pure_veg",
+    "vegan"
+   ],
+   "good_for": [
+    "family",
+    "solo",
+    "friends"
+   ],
+   "signature_dishes": [
+    "Ghee Roast Dosa",
+    "Benne Masala Dosa",
+    "Filter Coffee"
+   ],
+   "description": "Crisp benne dosas, fluffy idlis and strong filter coffee from 7:30 am. Kids' menu and high chairs available.",
+   "popularity": 1.0
+  },
+  {
+   "id": "dosa-republic-basavanagudi",
+   "name": "Dosa Republic, Basavanagudi",
+   "brand": "Dosa Republic",
+   "cuisine": "South Indian",
+   "cuisines": [
+    "South Indian",
+    "Udupi"
+   ],
+   "tags": [
+    "south indian",
+    "dosa",
+    "idli",
+    "vada",
+    "udupi",
+    "filter coffee",
+    "breakfast",
+    "veg",
+    "indian",
+    "tiffin"
+   ],
+   "area": "Basavanagudi",
+   "address": "145, DVG Road, Basavanagudi, Bengaluru 560004",
+   "lat": 12.93927,
+   "lng": 77.57558,
+   "price_band": 1,
+   "avg_cost_for_two": 520,
+   "rating": 4.5,
+   "reviews": 3291,
+   "seats": 60,
+   "table_mix": {
+    "2": 9,
+    "4": 9,
+    "6": 1
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "07:30",
+     "22:30"
+    ]
+   ],
+   "features": [
+    "kid_friendly",
+    "outdoor_seating",
+    "quiet",
+    "wheelchair_accessible"
+   ],
+   "dietary": [
+    "jain",
+    "pure_veg",
+    "vegan"
+   ],
+   "good_for": [
+    "family",
+    "solo",
+    "friends"
+   ],
+   "signature_dishes": [
+    "Ghee Roast Dosa",
+    "Benne Masala Dosa",
+    "Filter Coffee"
+   ],
+   "description": "Crisp benne dosas, fluffy idlis and strong filter coffee from 7:30 am. Ask for the garden courtyard tables.",
+   "popularity": 0.79
+  },
+  {
+   "id": "dosa-republic-malleshwaram",
+   "name": "Dosa Republic, Malleshwaram",
+   "brand": "Dosa Republic",
+   "cuisine": "South Indian",
+   "cuisines": [
+    "South Indian",
+    "Udupi"
+   ],
+   "tags": [
+    "south indian",
+    "dosa",
+    "idli",
+    "vada",
+    "udupi",
+    "filter coffee",
+    "breakfast",
+    "veg",
+    "indian",
+    "tiffin"
+   ],
+   "area": "Malleshwaram",
+   "address": "234, Margosa Road, Malleshwaram, Bengaluru 560003",
+   "lat": 13.00548,
+   "lng": 77.56344,
+   "price_band": 1,
+   "avg_cost_for_two": 490,
+   "rating": 4.6,
+   "reviews": 3866,
+   "seats": 66,
+   "table_mix": {
+    "2": 10,
+    "4": 10,
+    "6": 1
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "07:30",
+     "22:30"
+    ]
+   ],
+   "features": [
+    "kid_friendly",
+    "quiet"
+   ],
+   "dietary": [
+    "jain",
+    "pure_veg",
+    "vegan"
+   ],
+   "good_for": [
+    "family",
+    "solo",
+    "friends"
+   ],
+   "signature_dishes": [
+    "Ghee Roast Dosa",
+    "Benne Masala Dosa",
+    "Filter Coffee"
+   ],
+   "description": "Crisp benne dosas, fluffy idlis and strong filter coffee from 7:30 am. A calmer outpost, good for conversation.",
+   "popularity": 0.91
+  },
+  {
+   "id": "dosa-republic-indiranagar",
+   "name": "Dosa Republic, Indiranagar",
+   "brand": "Dosa Republic",
+   "cuisine": "South Indian",
+   "cuisines": [
+    "South Indian",
+    "Udupi"
+   ],
+   "tags": [
+    "south indian",
+    "dosa",
+    "idli",
+    "vada",
+    "udupi",
+    "filter coffee",
+    "breakfast",
+    "veg",
+    "indian",
+    "tiffin"
+   ],
+   "area": "Indiranagar",
+   "address": "53, 100 Feet Road, Indiranagar, Bengaluru 560038",
+   "lat": 12.97243,
+   "lng": 77.64149,
+   "price_band": 1,
+   "avg_cost_for_two": 550,
+   "rating": 4.7,
+   "reviews": 2150,
+   "seats": 54,
+   "table_mix": {
+    "2": 8,
+    "4": 8,
+    "6": 1
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "07:30",
+     "22:30"
+    ]
+   ],
+   "features": [
+    "kid_friendly",
+    "outdoor_seating",
+    "quiet",
+    "wheelchair_accessible"
+   ],
+   "dietary": [
+    "jain",
+    "pure_veg",
+    "vegan"
+   ],
+   "good_for": [
+    "family",
+    "solo",
+    "friends"
+   ],
+   "signature_dishes": [
+    "Ghee Roast Dosa",
+    "Benne Masala Dosa",
+    "Filter Coffee"
+   ],
+   "description": "Crisp benne dosas, fluffy idlis and strong filter coffee from 7:30 am. Ask for the garden courtyard tables.",
+   "popularity": 1.0
+  },
+  {
+   "id": "dosa-republic-hsr-layout",
+   "name": "Dosa Republic, HSR Layout",
+   "brand": "Dosa Republic",
+   "cuisine": "South Indian",
+   "cuisines": [
+    "South Indian",
+    "Udupi"
+   ],
+   "tags": [
+    "south indian",
+    "dosa",
+    "idli",
+    "vada",
+    "udupi",
+    "filter coffee",
+    "breakfast",
+    "veg",
+    "indian",
+    "tiffin"
+   ],
+   "area": "HSR Layout",
+   "address": "309, Sector 7, HSR Layout, Bengaluru 560102",
+   "lat": 12.91139,
+   "lng": 77.64432,
+   "price_band": 1,
+   "avg_cost_for_two": 500,
+   "rating": 4.9,
+   "reviews": 4298,
+   "seats": 48,
+   "table_mix": {
+    "2": 7,
+    "4": 7,
+    "6": 1
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "07:30",
+     "22:30"
+    ]
+   ],
+   "features": [
+    "kid_friendly",
+    "outdoor_seating",
+    "quiet",
+    "wheelchair_accessible"
+   ],
+   "dietary": [
+    "jain",
+    "pure_veg",
+    "vegan"
+   ],
+   "good_for": [
+    "family",
+    "solo",
+    "friends"
+   ],
+   "signature_dishes": [
+    "Ghee Roast Dosa",
+    "Benne Masala Dosa",
+    "Filter Coffee"
+   ],
+   "description": "Crisp benne dosas, fluffy idlis and strong filter coffee from 7:30 am. Kids' menu and high chairs available.",
+   "popularity": 1.0
+  },
+  {
+   "id": "dosa-republic-electronic-city",
+   "name": "Dosa Republic, Electronic City",
+   "brand": "Dosa Republic",
+   "cuisine": "South Indian",
+   "cuisines": [
+    "South Indian",
+    "Udupi"
+   ],
+   "tags": [
+    "south indian",
+    "dosa",
+    "idli",
+    "vada",
+    "udupi",
+    "filter coffee",
+    "breakfast",
+    "veg",
+    "indian",
+    "tiffin"
+   ],
+   "area": "Electronic City",
+   "address": "265, Hosur Road, Electronic City, Bengaluru 560100",
+   "lat": 12.84284,
+   "lng": 77.66382,
+   "price_band": 1,
+   "avg_cost_for_two": 490,
+   "rating": 4.7,
+   "reviews": 3383,
+   "seats": 72,
+   "table_mix": {
+    "2": 11,
+    "4": 11,
+    "6": 1
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "07:30",
+     "22:30"
+    ]
+   ],
+   "features": [
+    "kid_friendly",
+    "outdoor_seating",
+    "quiet",
+    "wheelchair_accessible"
+   ],
+   "dietary": [
+    "jain",
+    "pure_veg",
+    "vegan"
+   ],
+   "good_for": [
+    "family",
+    "solo",
+    "friends"
+   ],
+   "signature_dishes": [
+    "Ghee Roast Dosa",
+    "Benne Masala Dosa",
+    "Filter Coffee"
+   ],
+   "description": "Crisp benne dosas, fluffy idlis and strong filter coffee from 7:30 am. A calmer outpost, good for conversation.",
+   "popularity": 0.92
+  },
+  {
+   "id": "dosa-republic-rajajinagar",
+   "name": "Dosa Republic, Rajajinagar",
+   "brand": "Dosa Republic",
+   "cuisine": "South Indian",
+   "cuisines": [
+    "South Indian",
+    "Udupi"
+   ],
+   "tags": [
+    "south indian",
+    "dosa",
+    "idli",
+    "vada",
+    "udupi",
+    "filter coffee",
+    "breakfast",
+    "veg",
+    "indian",
+    "tiffin"
+   ],
+   "area": "Rajajinagar",
+   "address": "357, West of Chord Road, Rajajinagar, Bengaluru 560010",
+   "lat": 12.99115,
+   "lng": 77.55527,
+   "price_band": 1,
+   "avg_cost_for_two": 490,
+   "rating": 4.7,
+   "reviews": 3754,
+   "seats": 78,
+   "table_mix": {
+    "2": 12,
+    "4": 12,
+    "6": 1
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "07:30",
+     "22:30"
+    ]
+   ],
+   "features": [
+    "kid_friendly",
+    "quiet"
+   ],
+   "dietary": [
+    "jain",
+    "pure_veg",
+    "vegan"
+   ],
+   "good_for": [
+    "family",
+    "solo",
+    "friends"
+   ],
+   "signature_dishes": [
+    "Ghee Roast Dosa",
+    "Benne Masala Dosa",
+    "Filter Coffee"
+   ],
+   "description": "Crisp benne dosas, fluffy idlis and strong filter coffee from 7:30 am. A calmer outpost, good for conversation.",
+   "popularity": 0.86
+  },
+  {
+   "id": "dosa-republic-jp-nagar",
+   "name": "Dosa Republic, JP Nagar",
+   "brand": "Dosa Republic",
+   "cuisine": "South Indian",
+   "cuisines": [
+    "South Indian",
+    "Udupi"
+   ],
+   "tags": [
+    "south indian",
+    "dosa",
+    "idli",
+    "vada",
+    "udupi",
+    "filter coffee",
+    "breakfast",
+    "veg",
+    "indian",
+    "tiffin"
+   ],
+   "area": "JP Nagar",
+   "address": "413, 24th Main Road, JP Nagar, Bengaluru 560078",
+   "lat": 12.90885,
+   "lng": 77.58762,
+   "price_band": 1,
+   "avg_cost_for_two": 470,
+   "rating": 4.4,
+   "reviews": 3746,
+   "seats": 60,
+   "table_mix": {
+    "2": 9,
+    "4": 9,
+    "6": 1
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "07:30",
+     "22:30"
+    ]
+   ],
+   "features": [
+    "kid_friendly",
+    "quiet"
+   ],
+   "dietary": [
+    "jain",
+    "pure_veg",
+    "vegan"
+   ],
+   "good_for": [
+    "family",
+    "solo",
+    "friends"
+   ],
+   "signature_dishes": [
+    "Ghee Roast Dosa",
+    "Benne Masala Dosa",
+    "Filter Coffee"
+   ],
+   "description": "Crisp benne dosas, fluffy idlis and strong filter coffee from 7:30 am. A calmer outpost, good for conversation.",
+   "popularity": 0.77
+  },
+  {
+   "id": "coastal-tide-indiranagar",
+   "name": "Coastal Tide, Indiranagar",
+   "brand": "Coastal Tide",
+   "cuisine": "Coastal Seafood",
+   "cuisines": [
+    "Mangalorean",
+    "Kerala",
+    "Seafood"
+   ],
+   "tags": [
+    "seafood",
+    "fish",
+    "coastal",
+    "mangalorean",
+    "kerala",
+    "malabar",
+    "prawns",
+    "crab",
+    "appam",
+    "indian"
+   ],
+   "area": "Indiranagar",
+   "address": "229, CMH Road, Indiranagar, Bengaluru 560038",
+   "lat": 12.97554,
+   "lng": 77.64012,
+   "price_band": 3,
+   "avg_cost_for_two": 1710,
+   "rating": 4.6,
+   "reviews": 4536,
+   "seats": 98,
+   "table_mix": {
+    "2": 10,
+    "4": 13,
+    "6": 3,
+    "8": 1
+   },
+   "private_dining_capacity": 17,
+   "hours": [
+    [
+     "12:00",
+     "15:30"
+    ],
+    [
+     "19:00",
+     "23:00"
+    ]
+   ],
+   "features": [
+    "bar",
+    "outdoor_seating",
+    "private_dining",
+    "quiet",
+    "valet_parking"
+   ],
+   "dietary": [
+    "gluten_free"
+   ],
+   "good_for": [
+    "family",
+    "business",
+    "date_night"
+   ],
+   "signature_dishes": [
+    "Prawn Ghee Roast",
+    "Kori Gassi with Neer Dosa",
+    "Appam & Stew"
+   ],
+   "description": "Mangalorean ghee roasts, Kerala stews and the day's catch from the west coast. Ask for the garden courtyard tables. Private dining room for up to 17 guests.",
+   "popularity": 1.0
+  },
+  {
+   "id": "coastal-tide-koramangala",
+   "name": "Coastal Tide, Koramangala",
+   "brand": "Coastal Tide",
+   "cuisine": "Coastal Seafood",
+   "cuisines": [
+    "Mangalorean",
+    "Kerala",
+    "Seafood"
+   ],
+   "tags": [
+    "seafood",
+    "fish",
+    "coastal",
+    "mangalorean",
+    "kerala",
+    "malabar",
+    "prawns",
+    "crab",
+    "appam",
+    "indian"
+   ],
+   "area": "Koramangala",
+   "address": "330, 80 Feet Road, Koramangala, Bengaluru 560034",
+   "lat": 12.93788,
+   "lng": 77.62146,
+   "price_band": 3,
+   "avg_cost_for_two": 1770,
+   "rating": 4.6,
+   "reviews": 4975,
+   "seats": 82,
+   "table_mix": {
+    "2": 8,
+    "4": 10,
+    "6": 3,
+    "8": 1
+   },
+   "private_dining_capacity": 14,
+   "hours": [
+    [
+     "12:00",
+     "15:30"
+    ],
+    [
+     "19:00",
+     "23:00"
+    ]
+   ],
+   "features": [
+    "bar",
+    "private_dining",
+    "valet_parking"
+   ],
+   "dietary": [
+    "gluten_free"
+   ],
+   "good_for": [
+    "family",
+    "business",
+    "date_night"
+   ],
+   "signature_dishes": [
+    "Prawn Ghee Roast",
+    "Kori Gassi with Neer Dosa",
+    "Appam & Stew"
+   ],
+   "description": "Mangalorean ghee roasts, Kerala stews and the day's catch from the west coast. Private dining room for up to 14 guests.",
+   "popularity": 1.0
+  },
+  {
+   "id": "coastal-tide-whitefield",
+   "name": "Coastal Tide, Whitefield",
+   "brand": "Coastal Tide",
+   "cuisine": "Coastal Seafood",
+   "cuisines": [
+    "Mangalorean",
+    "Kerala",
+    "Seafood"
+   ],
+   "tags": [
+    "seafood",
+    "fish",
+    "coastal",
+    "mangalorean",
+    "kerala",
+    "malabar",
+    "prawns",
+    "crab",
+    "appam",
+    "indian"
+   ],
+   "area": "Whitefield",
+   "address": "370, Whitefield Main Road, Bengaluru 560066",
+   "lat": 12.96951,
+   "lng": 77.75195,
+   "price_band": 3,
+   "avg_cost_for_two": 1650,
+   "rating": 4.4,
+   "reviews": 3976,
+   "seats": 112,
+   "table_mix": {
+    "2": 12,
+    "4": 14,
+    "6": 4,
+    "8": 1
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "12:00",
+     "15:30"
+    ],
+    [
+     "19:00",
+     "23:00"
+    ]
+   ],
+   "features": [
+    "bar",
+    "outdoor_seating",
+    "valet_parking"
+   ],
+   "dietary": [
+    "gluten_free"
+   ],
+   "good_for": [
+    "family",
+    "business",
+    "date_night"
+   ],
+   "signature_dishes": [
+    "Prawn Ghee Roast",
+    "Kori Gassi with Neer Dosa",
+    "Appam & Stew"
+   ],
+   "description": "Mangalorean ghee roasts, Kerala stews and the day's catch from the west coast. Ask for the garden courtyard tables.",
+   "popularity": 0.79
+  },
+  {
+   "id": "coastal-tide-ulsoor",
+   "name": "Coastal Tide, Ulsoor",
+   "brand": "Coastal Tide",
+   "cuisine": "Coastal Seafood",
+   "cuisines": [
+    "Mangalorean",
+    "Kerala",
+    "Seafood"
+   ],
+   "tags": [
+    "seafood",
+    "fish",
+    "coastal",
+    "mangalorean",
+    "kerala",
+    "malabar",
+    "prawns",
+    "crab",
+    "appam",
+    "indian"
+   ],
+   "area": "Ulsoor",
+   "address": "337, Kensington Road, Ulsoor, Bengaluru 560008",
+   "lat": 12.97895,
+   "lng": 77.62899,
+   "price_band": 3,
+   "avg_cost_for_two": 1630,
+   "rating": 4.4,
+   "reviews": 2850,
+   "seats": 82,
+   "table_mix": {
+    "2": 8,
+    "4": 10,
+    "6": 3,
+    "8": 1
+   },
+   "private_dining_capacity": 13,
+   "hours": [
+    [
+     "12:00",
+     "15:30"
+    ],
+    [
+     "19:00",
+     "23:00"
+    ]
+   ],
+   "features": [
+    "bar",
+    "private_dining",
+    "quiet",
+    "valet_parking"
+   ],
+   "dietary": [
+    "gluten_free"
+   ],
+   "good_for": [
+    "family",
+    "business",
+    "date_night"
+   ],
+   "signature_dishes": [
+    "Prawn Ghee Roast",
+    "Kori Gassi with Neer Dosa",
+    "Appam & Stew"
+   ],
+   "description": "Mangalorean ghee roasts, Kerala stews and the day's catch from the west coast. A calmer outpost, good for conversation. Private dining room for up to 13 guests.",
+   "popularity": 0.77
+  },
+  {
+   "id": "red-lantern-koramangala",
+   "name": "Red Lantern, Koramangala",
+   "brand": "Red Lantern",
+   "cuisine": "Pan-Asian",
+   "cuisines": [
+    "Chinese",
+    "Thai",
+    "Pan-Asian"
+   ],
+   "tags": [
+    "chinese",
+    "pan asian",
+    "pan-asian",
+    "asian",
+    "thai",
+    "dim sum",
+    "momos",
+    "noodles",
+    "wok",
+    "indo chinese"
+   ],
+   "area": "Koramangala",
+   "address": "423, 5th Block, Koramangala, Bengaluru 560034",
+   "lat": 12.93142,
+   "lng": 77.6222,
+   "price_band": 2,
+   "avg_cost_for_two": 1310,
+   "rating": 4.1,
+   "reviews": 1899,
+   "seats": 124,
+   "table_mix": {
+    "2": 12,
+    "4": 15,
+    "6": 4,
+    "8": 2
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "12:00",
+     "23:00"
+    ]
+   ],
+   "features": [
+    "kid_friendly"
+   ],
+   "dietary": [
+    "jain",
+    "vegan"
+   ],
+   "good_for": [
+    "friends",
+    "family",
+    "birthday"
+   ],
+   "signature_dishes": [
+    "Crystal Dim Sum Basket",
+    "Hakka Noodles",
+    "Thai Green Curry"
+   ],
+   "description": "Wok-tossed noodles, steaming dim sum baskets and fragrant Thai curries. Kids' menu and high chairs available.",
+   "popularity": 0.74
+  },
+  {
+   "id": "red-lantern-hsr-layout",
+   "name": "Red Lantern, HSR Layout",
+   "brand": "Red Lantern",
+   "cuisine": "Pan-Asian",
+   "cuisines": [
+    "Chinese",
+    "Thai",
+    "Pan-Asian"
+   ],
+   "tags": [
+    "chinese",
+    "pan asian",
+    "pan-asian",
+    "asian",
+    "thai",
+    "dim sum",
+    "momos",
+    "noodles",
+    "wok",
+    "indo chinese"
+   ],
+   "area": "HSR Layout",
+   "address": "424, 14th Main Road, HSR Layout, Bengaluru 560102",
+   "lat": 12.90865,
+   "lng": 77.64461,
+   "price_band": 2,
+   "avg_cost_for_two": 1320,
+   "rating": 4.4,
+   "reviews": 3466,
+   "seats": 116,
+   "table_mix": {
+    "2": 12,
+    "4": 15,
+    "6": 4,
+    "8": 1
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "12:00",
+     "23:00"
+    ]
+   ],
+   "features": [
+    "bar",
+    "kid_friendly",
+    "outdoor_seating",
+    "wheelchair_accessible"
+   ],
+   "dietary": [
+    "jain",
+    "vegan"
+   ],
+   "good_for": [
+    "friends",
+    "family",
+    "birthday"
+   ],
+   "signature_dishes": [
+    "Crystal Dim Sum Basket",
+    "Hakka Noodles",
+    "Thai Green Curry"
+   ],
+   "description": "Wok-tossed noodles, steaming dim sum baskets and fragrant Thai curries. Kids' menu and high chairs available.",
+   "popularity": 0.84
+  },
+  {
+   "id": "red-lantern-indiranagar",
+   "name": "Red Lantern, Indiranagar",
+   "brand": "Red Lantern",
+   "cuisine": "Pan-Asian",
+   "cuisines": [
+    "Chinese",
+    "Thai",
+    "Pan-Asian"
+   ],
+   "tags": [
+    "chinese",
+    "pan asian",
+    "pan-asian",
+    "asian",
+    "thai",
+    "dim sum",
+    "momos",
+    "noodles",
+    "wok",
+    "indo chinese"
+   ],
+   "area": "Indiranagar",
+   "address": "285, 100 Feet Road, Indiranagar, Bengaluru 560038",
+   "lat": 12.97051,
+   "lng": 77.64135,
+   "price_band": 2,
+   "avg_cost_for_two": 1330,
+   "rating": 4.2,
+   "reviews": 2813,
+   "seats": 128,
+   "table_mix": {
+    "2": 12,
+    "4": 16,
+    "6": 4,
+    "8": 2
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "12:00",
+     "23:00"
+    ]
+   ],
+   "features": [
+    "bar",
+    "kid_friendly",
+    "outdoor_seating"
+   ],
+   "dietary": [
+    "jain",
+    "vegan"
+   ],
+   "good_for": [
+    "friends",
+    "family",
+    "birthday"
+   ],
+   "signature_dishes": [
+    "Crystal Dim Sum Basket",
+    "Hakka Noodles",
+    "Thai Green Curry"
+   ],
+   "description": "Wok-tossed noodles, steaming dim sum baskets and fragrant Thai curries. Ask for the garden courtyard tables.",
+   "popularity": 0.76
+  },
+  {
+   "id": "red-lantern-bellandur",
+   "name": "Red Lantern, Bellandur",
+   "brand": "Red Lantern",
+   "cuisine": "Pan-Asian",
+   "cuisines": [
+    "Chinese",
+    "Thai",
+    "Pan-Asian"
+   ],
+   "tags": [
+    "chinese",
+    "pan asian",
+    "pan-asian",
+    "asian",
+    "thai",
+    "dim sum",
+    "momos",
+    "noodles",
+    "wok",
+    "indo chinese"
+   ],
+   "area": "Bellandur",
+   "address": "227, Green Glen Layout, Bellandur, Bengaluru 560103",
+   "lat": 12.9313,
+   "lng": 77.67844,
+   "price_band": 2,
+   "avg_cost_for_two": 1320,
+   "rating": 4.4,
+   "reviews": 1458,
+   "seats": 124,
+   "table_mix": {
+    "2": 12,
+    "4": 15,
+    "6": 4,
+    "8": 2
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "12:00",
+     "23:00"
+    ]
+   ],
+   "features": [
+    "kid_friendly",
+    "outdoor_seating",
+    "wheelchair_accessible"
+   ],
+   "dietary": [
+    "jain",
+    "vegan"
+   ],
+   "good_for": [
+    "friends",
+    "family",
+    "birthday"
+   ],
+   "signature_dishes": [
+    "Crystal Dim Sum Basket",
+    "Hakka Noodles",
+    "Thai Green Curry"
+   ],
+   "description": "Wok-tossed noodles, steaming dim sum baskets and fragrant Thai curries. Ask for the garden courtyard tables.",
+   "popularity": 0.78
+  },
+  {
+   "id": "red-lantern-brookefield",
+   "name": "Red Lantern, Brookefield",
+   "brand": "Red Lantern",
+   "cuisine": "Pan-Asian",
+   "cuisines": [
+    "Chinese",
+    "Thai",
+    "Pan-Asian"
+   ],
+   "tags": [
+    "chinese",
+    "pan asian",
+    "pan-asian",
+    "asian",
+    "thai",
+    "dim sum",
+    "momos",
+    "noodles",
+    "wok",
+    "indo chinese"
+   ],
+   "area": "Brookefield",
+   "address": "431, AECS Layout, Brookefield, Bengaluru 560037",
+   "lat": 12.9626,
+   "lng": 77.71547,
+   "price_band": 2,
+   "avg_cost_for_two": 1300,
+   "rating": 4.3,
+   "reviews": 1994,
+   "seats": 110,
+   "table_mix": {
+    "2": 11,
+    "4": 14,
+    "6": 4,
+    "8": 1
+   },
+   "private_dining_capacity": 16,
+   "hours": [
+    [
+     "12:00",
+     "23:00"
+    ]
+   ],
+   "features": [
+    "kid_friendly",
+    "outdoor_seating",
+    "private_dining"
+   ],
+   "dietary": [
+    "jain",
+    "vegan"
+   ],
+   "good_for": [
+    "friends",
+    "family",
+    "birthday"
+   ],
+   "signature_dishes": [
+    "Crystal Dim Sum Basket",
+    "Hakka Noodles",
+    "Thai Green Curry"
+   ],
+   "description": "Wok-tossed noodles, steaming dim sum baskets and fragrant Thai curries. Ask for the garden courtyard tables. Private dining room for up to 16 guests.",
+   "popularity": 0.7
+  },
+  {
+   "id": "red-lantern-kalyan-nagar",
+   "name": "Red Lantern, Kalyan Nagar",
+   "brand": "Red Lantern",
+   "cuisine": "Pan-Asian",
+   "cuisines": [
+    "Chinese",
+    "Thai",
+    "Pan-Asian"
+   ],
+   "tags": [
+    "chinese",
+    "pan asian",
+    "pan-asian",
+    "asian",
+    "thai",
+    "dim sum",
+    "momos",
+    "noodles",
+    "wok",
+    "indo chinese"
+   ],
+   "area": "Kalyan Nagar",
+   "address": "74, Kammanahalli Main Road, Kalyan Nagar, Bengaluru 560043",
+   "lat": 13.02516,
+   "lng": 77.64404,
+   "price_band": 2,
+   "avg_cost_for_two": 1230,
+   "rating": 4.5,
+   "reviews": 3838,
+   "seats": 70,
+   "table_mix": {
+    "2": 7,
+    "4": 9,
+    "6": 2,
+    "8": 1
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "12:00",
+     "23:00"
+    ]
+   ],
+   "features": [
+    "bar",
+    "kid_friendly",
+    "outdoor_seating",
+    "wheelchair_accessible"
+   ],
+   "dietary": [
+    "jain",
+    "vegan"
+   ],
+   "good_for": [
+    "friends",
+    "family",
+    "birthday"
+   ],
+   "signature_dishes": [
+    "Crystal Dim Sum Basket",
+    "Hakka Noodles",
+    "Thai Green Curry"
+   ],
+   "description": "Wok-tossed noodles, steaming dim sum baskets and fragrant Thai curries. Kids' menu and high chairs available.",
+   "popularity": 0.88
+  },
+  {
+   "id": "trattoria-verde-indiranagar",
+   "name": "Trattoria Verde, Indiranagar",
+   "brand": "Trattoria Verde",
+   "cuisine": "Italian",
+   "cuisines": [
+    "Italian",
+    "Pizza"
+   ],
+   "tags": [
+    "italian",
+    "pizza",
+    "pasta",
+    "risotto",
+    "wood fired",
+    "european",
+    "continental"
+   ],
+   "area": "Indiranagar",
+   "address": "174, Double Road, Indiranagar, Bengaluru 560038",
+   "lat": 12.96947,
+   "lng": 77.63975,
+   "price_band": 3,
+   "avg_cost_for_two": 2120,
+   "rating": 4.7,
+   "reviews": 3354,
+   "seats": 64,
+   "table_mix": {
+    "2": 12,
+    "4": 7,
+    "6": 2
+   },
+   "private_dining_capacity": 15,
+   "hours": [
+    [
+     "12:00",
+     "23:00"
+    ]
+   ],
+   "features": [
+    "bar",
+    "outdoor_seating",
+    "private_dining",
+    "wheelchair_accessible"
+   ],
+   "dietary": [
+    "gluten_free",
+    "vegan"
+   ],
+   "good_for": [
+    "date_night",
+    "friends",
+    "birthday",
+    "business"
+   ],
+   "signature_dishes": [
+    "Wood-fired Margherita",
+    "Truffle Mushroom Risotto",
+    "Classic Tiramisu"
+   ],
+   "description": "Wood-fired pizzas, hand-rolled pasta and a candle-lit dining room. Ask for the garden courtyard tables. Private dining room for up to 15 guests.",
+   "popularity": 1.0
+  },
+  {
+   "id": "trattoria-verde-koramangala",
+   "name": "Trattoria Verde, Koramangala",
+   "brand": "Trattoria Verde",
+   "cuisine": "Italian",
+   "cuisines": [
+    "Italian",
+    "Pizza"
+   ],
+   "tags": [
+    "italian",
+    "pizza",
+    "pasta",
+    "risotto",
+    "wood fired",
+    "european",
+    "continental"
+   ],
+   "area": "Koramangala",
+   "address": "449, 80 Feet Road, Koramangala, Bengaluru 560034",
+   "lat": 12.93187,
+   "lng": 77.62268,
+   "price_band": 3,
+   "avg_cost_for_two": 2200,
+   "rating": 4.4,
+   "reviews": 4881,
+   "seats": 52,
+   "table_mix": {
+    "2": 11,
+    "4": 6,
+    "6": 1
+   },
+   "private_dining_capacity": 15,
+   "hours": [
+    [
+     "12:00",
+     "23:00"
+    ]
+   ],
+   "features": [
+    "bar",
+    "outdoor_seating",
+    "private_dining",
+    "quiet",
+    "wheelchair_accessible"
+   ],
+   "dietary": [
+    "gluten_free",
+    "vegan"
+   ],
+   "good_for": [
+    "date_night",
+    "friends",
+    "birthday",
+    "business"
+   ],
+   "signature_dishes": [
+    "Wood-fired Margherita",
+    "Truffle Mushroom Risotto",
+    "Classic Tiramisu"
+   ],
+   "description": "Wood-fired pizzas, hand-rolled pasta and a candle-lit dining room. A calmer outpost, good for conversation. Private dining room for up to 15 guests.",
+   "popularity": 0.99
+  },
+  {
+   "id": "trattoria-verde-lavelle-road",
+   "name": "Trattoria Verde, Lavelle Road",
+   "brand": "Trattoria Verde",
+   "cuisine": "Italian",
+   "cuisines": [
+    "Italian",
+    "Pizza"
+   ],
+   "tags": [
+    "italian",
+    "pizza",
+    "pasta",
+    "risotto",
+    "wood fired",
+    "european",
+    "continental"
+   ],
+   "area": "Lavelle Road",
+   "address": "471, Vittal Mallya Road, Lavelle Road, Bengaluru 560001",
+   "lat": 12.9723,
+   "lng": 77.59422,
+   "price_band": 3,
+   "avg_cost_for_two": 1830,
+   "rating": 4.5,
+   "reviews": 3601,
+   "seats": 70,
+   "table_mix": {
+    "2": 13,
+    "4": 8,
+    "6": 2
+   },
+   "private_dining_capacity": 13,
+   "hours": [
+    [
+     "12:00",
+     "23:00"
+    ]
+   ],
+   "features": [
+    "bar",
+    "private_dining"
+   ],
+   "dietary": [
+    "gluten_free",
+    "vegan"
+   ],
+   "good_for": [
+    "date_night",
+    "friends",
+    "birthday",
+    "business"
+   ],
+   "signature_dishes": [
+    "Wood-fired Margherita",
+    "Truffle Mushroom Risotto",
+    "Classic Tiramisu"
+   ],
+   "description": "Wood-fired pizzas, hand-rolled pasta and a candle-lit dining room. Private dining room for up to 13 guests.",
+   "popularity": 0.92
+  },
+  {
+   "id": "trattoria-verde-whitefield",
+   "name": "Trattoria Verde, Whitefield",
+   "brand": "Trattoria Verde",
+   "cuisine": "Italian",
+   "cuisines": [
+    "Italian",
+    "Pizza"
+   ],
+   "tags": [
+    "italian",
+    "pizza",
+    "pasta",
+    "risotto",
+    "wood fired",
+    "european",
+    "continental"
+   ],
+   "area": "Whitefield",
+   "address": "233, ITPL Main Road, Whitefield, Bengaluru 560066",
+   "lat": 12.96851,
+   "lng": 77.75042,
+   "price_band": 3,
+   "avg_cost_for_two": 2210,
+   "rating": 4.8,
+   "reviews": 2198,
+   "seats": 70,
+   "table_mix": {
+    "2": 13,
+    "4": 8,
+    "6": 2
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "12:00",
+     "23:00"
+    ]
+   ],
+   "features": [
+    "bar",
+    "outdoor_seating"
+   ],
+   "dietary": [
+    "gluten_free",
+    "vegan"
+   ],
+   "good_for": [
+    "date_night",
+    "friends",
+    "birthday",
+    "business"
+   ],
+   "signature_dishes": [
+    "Wood-fired Margherita",
+    "Truffle Mushroom Risotto",
+    "Classic Tiramisu"
+   ],
+   "description": "Wood-fired pizzas, hand-rolled pasta and a candle-lit dining room. Ask for the garden courtyard tables.",
+   "popularity": 1.0
+  },
+  {
+   "id": "trattoria-verde-sadashivanagar",
+   "name": "Trattoria Verde, Sadashivanagar",
+   "brand": "Trattoria Verde",
+   "cuisine": "Italian",
+   "cuisines": [
+    "Italian",
+    "Pizza"
+   ],
+   "tags": [
+    "italian",
+    "pizza",
+    "pasta",
+    "risotto",
+    "wood fired",
+    "european",
+    "continental"
+   ],
+   "area": "Sadashivanagar",
+   "address": "104, RMV Extension, Sadashivanagar, Bengaluru 560080",
+   "lat": 13.00783,
+   "lng": 77.58155,
+   "price_band": 3,
+   "avg_cost_for_two": 1890,
+   "rating": 4.6,
+   "reviews": 2172,
+   "seats": 74,
+   "table_mix": {
+    "2": 15,
+    "4": 8,
+    "6": 2
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "12:00",
+     "23:00"
+    ]
+   ],
+   "features": [
+    "bar",
+    "outdoor_seating"
+   ],
+   "dietary": [
+    "gluten_free",
+    "vegan"
+   ],
+   "good_for": [
+    "date_night",
+    "friends",
+    "birthday",
+    "business"
+   ],
+   "signature_dishes": [
+    "Wood-fired Margherita",
+    "Truffle Mushroom Risotto",
+    "Classic Tiramisu"
+   ],
+   "description": "Wood-fired pizzas, hand-rolled pasta and a candle-lit dining room. Ask for the garden courtyard tables.",
+   "popularity": 0.88
+  },
+  {
+   "id": "ember-and-oak-whitefield",
+   "name": "Ember & Oak, Whitefield",
+   "brand": "Ember & Oak",
+   "cuisine": "BBQ & Grill",
+   "cuisines": [
+    "Barbecue",
+    "Grill",
+    "Steakhouse"
+   ],
+   "tags": [
+    "bbq",
+    "barbecue",
+    "grill",
+    "steak",
+    "steakhouse",
+    "ribs",
+    "smoked",
+    "meat",
+    "continental"
+   ],
+   "area": "Whitefield",
+   "address": "126, Whitefield Main Road, Bengaluru 560066",
+   "lat": 12.96665,
+   "lng": 77.75255,
+   "price_band": 3,
+   "avg_cost_for_two": 2190,
+   "rating": 4.4,
+   "reviews": 3393,
+   "seats": 116,
+   "table_mix": {
+    "2": 9,
+    "4": 13,
+    "6": 5,
+    "8": 2
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "12:00",
+     "23:30"
+    ]
+   ],
+   "features": [
+    "bar",
+    "live_music",
+    "outdoor_seating",
+    "sports_screening",
+    "valet_parking"
+   ],
+   "dietary": [
+    "gluten_free"
+   ],
+   "good_for": [
+    "friends",
+    "business",
+    "birthday",
+    "large_groups"
+   ],
+   "signature_dishes": [
+    "Smoked Pork Ribs",
+    "Peri-Peri Chicken",
+    "Charred Paneer Steak"
+   ],
+   "description": "Low-and-slow smoked meats, open-fire grills and a serious bar. Live acoustic sets on Friday and Saturday nights.",
+   "popularity": 0.85
+  },
+  {
+   "id": "ember-and-oak-koramangala",
+   "name": "Ember & Oak, Koramangala",
+   "brand": "Ember & Oak",
+   "cuisine": "BBQ & Grill",
+   "cuisines": [
+    "Barbecue",
+    "Grill",
+    "Steakhouse"
+   ],
+   "tags": [
+    "bbq",
+    "barbecue",
+    "grill",
+    "steak",
+    "steakhouse",
+    "ribs",
+    "smoked",
+    "meat",
+    "continental"
+   ],
+   "area": "Koramangala",
+   "address": "176, 5th Block, Koramangala, Bengaluru 560034",
+   "lat": 12.93786,
+   "lng": 77.62615,
+   "price_band": 3,
+   "avg_cost_for_two": 2290,
+   "rating": 4.4,
+   "reviews": 2371,
+   "seats": 120,
+   "table_mix": {
+    "2": 9,
+    "4": 14,
+    "6": 5,
+    "8": 2
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "12:00",
+     "23:30"
+    ]
+   ],
+   "features": [
+    "bar",
+    "live_music",
+    "valet_parking"
+   ],
+   "dietary": [
+    "gluten_free"
+   ],
+   "good_for": [
+    "friends",
+    "business",
+    "birthday",
+    "large_groups"
+   ],
+   "signature_dishes": [
+    "Smoked Pork Ribs",
+    "Peri-Peri Chicken",
+    "Charred Paneer Steak"
+   ],
+   "description": "Low-and-slow smoked meats, open-fire grills and a serious bar. Live acoustic sets on Friday and Saturday nights.",
+   "popularity": 0.89
+  },
+  {
+   "id": "ember-and-oak-mg-road",
+   "name": "Ember & Oak, MG Road",
+   "brand": "Ember & Oak",
+   "cuisine": "BBQ & Grill",
+   "cuisines": [
+    "Barbecue",
+    "Grill",
+    "Steakhouse"
+   ],
+   "tags": [
+    "bbq",
+    "barbecue",
+    "grill",
+    "steak",
+    "steakhouse",
+    "ribs",
+    "smoked",
+    "meat",
+    "continental"
+   ],
+   "area": "MG Road",
+   "address": "44, Residency Road, MG Road, Bengaluru 560001",
+   "lat": 12.97833,
+   "lng": 77.60796,
+   "price_band": 3,
+   "avg_cost_for_two": 2300,
+   "rating": 4.2,
+   "reviews": 1425,
+   "seats": 116,
+   "table_mix": {
+    "2": 9,
+    "4": 13,
+    "6": 5,
+    "8": 2
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "12:00",
+     "23:30"
+    ]
+   ],
+   "features": [
+    "bar",
+    "live_music",
+    "valet_parking"
+   ],
+   "dietary": [
+    "gluten_free"
+   ],
+   "good_for": [
+    "friends",
+    "business",
+    "birthday",
+    "large_groups"
+   ],
+   "signature_dishes": [
+    "Smoked Pork Ribs",
+    "Peri-Peri Chicken",
+    "Charred Paneer Steak"
+   ],
+   "description": "Low-and-slow smoked meats, open-fire grills and a serious bar. Live acoustic sets on Friday and Saturday nights.",
+   "popularity": 0.71
+  },
+  {
+   "id": "ember-and-oak-hebbal",
+   "name": "Ember & Oak, Hebbal",
+   "brand": "Ember & Oak",
+   "cuisine": "BBQ & Grill",
+   "cuisines": [
+    "Barbecue",
+    "Grill",
+    "Steakhouse"
+   ],
+   "tags": [
+    "bbq",
+    "barbecue",
+    "grill",
+    "steak",
+    "steakhouse",
+    "ribs",
+    "smoked",
+    "meat",
+    "continental"
+   ],
+   "area": "Hebbal",
+   "address": "187, Manyata Tech Park Road, Hebbal, Bengaluru 560024",
+   "lat": 13.03958,
+   "lng": 77.59738,
+   "price_band": 3,
+   "avg_cost_for_two": 2100,
+   "rating": 4.2,
+   "reviews": 1078,
+   "seats": 104,
+   "table_mix": {
+    "2": 8,
+    "4": 12,
+    "6": 4,
+    "8": 2
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "12:00",
+     "23:30"
+    ]
+   ],
+   "features": [
+    "bar",
+    "live_music",
+    "sports_screening",
+    "valet_parking"
+   ],
+   "dietary": [
+    "gluten_free"
+   ],
+   "good_for": [
+    "friends",
+    "business",
+    "birthday",
+    "large_groups"
+   ],
+   "signature_dishes": [
+    "Smoked Pork Ribs",
+    "Peri-Peri Chicken",
+    "Charred Paneer Steak"
+   ],
+   "description": "Low-and-slow smoked meats, open-fire grills and a serious bar. Big screens for cricket and football nights.",
+   "popularity": 0.58
+  },
+  {
+   "id": "leaf-and-ladle-indiranagar",
+   "name": "Leaf & Ladle, Indiranagar",
+   "brand": "Leaf & Ladle",
+   "cuisine": "Vegan & Healthy",
+   "cuisines": [
+    "Vegan",
+    "Healthy",
+    "Salads"
+   ],
+   "tags": [
+    "vegan",
+    "healthy",
+    "salad",
+    "plant based",
+    "plant-based",
+    "bowls",
+    "gluten free",
+    "keto",
+    "veg"
+   ],
+   "area": "Indiranagar",
+   "address": "128, 100 Feet Road, Indiranagar, Bengaluru 560038",
+   "lat": 12.96863,
+   "lng": 77.64374,
+   "price_band": 2,
+   "avg_cost_for_two": 1020,
+   "rating": 4.5,
+   "reviews": 2657,
+   "seats": 74,
+   "table_mix": {
+    "2": 18,
+    "4": 8,
+    "6": 1
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "08:30",
+     "22:30"
+    ]
+   ],
+   "features": [
+    "pet_friendly",
+    "quiet",
+    "wheelchair_accessible"
+   ],
+   "dietary": [
+    "gluten_free",
+    "jain",
+    "pure_veg",
+    "vegan"
+   ],
+   "good_for": [
+    "solo",
+    "friends",
+    "business"
+   ],
+   "signature_dishes": [
+    "Millet Buddha Bowl",
+    "Jackfruit Tacos",
+    "Ragi Banana Pancakes"
+   ],
+   "description": "Plant-forward bowls, millet everything and cold-pressed juices. Pets welcome in the outdoor section.",
+   "popularity": 0.93
+  },
+  {
+   "id": "leaf-and-ladle-hsr-layout",
+   "name": "Leaf & Ladle, HSR Layout",
+   "brand": "Leaf & Ladle",
+   "cuisine": "Vegan & Healthy",
+   "cuisines": [
+    "Vegan",
+    "Healthy",
+    "Salads"
+   ],
+   "tags": [
+    "vegan",
+    "healthy",
+    "salad",
+    "plant based",
+    "plant-based",
+    "bowls",
+    "gluten free",
+    "keto",
+    "veg"
+   ],
+   "area": "HSR Layout",
+   "address": "337, 14th Main Road, HSR Layout, Bengaluru 560102",
+   "lat": 12.91387,
+   "lng": 77.64817,
+   "price_band": 2,
+   "avg_cost_for_two": 1170,
+   "rating": 4.5,
+   "reviews": 2358,
+   "seats": 62,
+   "table_mix": {
+    "2": 14,
+    "4": 7,
+    "6": 1
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "08:30",
+     "22:30"
+    ]
+   ],
+   "features": [
+    "outdoor_seating",
+    "pet_friendly",
+    "quiet",
+    "wheelchair_accessible"
+   ],
+   "dietary": [
+    "gluten_free",
+    "jain",
+    "pure_veg",
+    "vegan"
+   ],
+   "good_for": [
+    "solo",
+    "friends",
+    "business"
+   ],
+   "signature_dishes": [
+    "Millet Buddha Bowl",
+    "Jackfruit Tacos",
+    "Ragi Banana Pancakes"
+   ],
+   "description": "Plant-forward bowls, millet everything and cold-pressed juices. Pets welcome in the outdoor section.",
+   "popularity": 0.88
+  },
+  {
+   "id": "leaf-and-ladle-jayanagar",
+   "name": "Leaf & Ladle, Jayanagar",
+   "brand": "Leaf & Ladle",
+   "cuisine": "Vegan & Healthy",
+   "cuisines": [
+    "Vegan",
+    "Healthy",
+    "Salads"
+   ],
+   "tags": [
+    "vegan",
+    "healthy",
+    "salad",
+    "plant based",
+    "plant-based",
+    "bowls",
+    "gluten free",
+    "keto",
+    "veg"
+   ],
+   "area": "Jayanagar",
+   "address": "376, 9th Block, Jayanagar, Bengaluru 560041",
+   "lat": 12.9333,
+   "lng": 77.58091,
+   "price_band": 2,
+   "avg_cost_for_two": 1120,
+   "rating": 4.4,
+   "reviews": 3565,
+   "seats": 66,
+   "table_mix": {
+    "2": 16,
+    "4": 7,
+    "6": 1
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "08:30",
+     "22:30"
+    ]
+   ],
+   "features": [
+    "pet_friendly",
+    "quiet",
+    "wheelchair_accessible"
+   ],
+   "dietary": [
+    "gluten_free",
+    "jain",
+    "pure_veg",
+    "vegan"
+   ],
+   "good_for": [
+    "solo",
+    "friends",
+    "business"
+   ],
+   "signature_dishes": [
+    "Millet Buddha Bowl",
+    "Jackfruit Tacos",
+    "Ragi Banana Pancakes"
+   ],
+   "description": "Plant-forward bowls, millet everything and cold-pressed juices. A calmer outpost, good for conversation.",
+   "popularity": 0.76
+  },
+  {
+   "id": "leaf-and-ladle-sarjapur-road",
+   "name": "Leaf & Ladle, Sarjapur Road",
+   "brand": "Leaf & Ladle",
+   "cuisine": "Vegan & Healthy",
+   "cuisines": [
+    "Vegan",
+    "Healthy",
+    "Salads"
+   ],
+   "tags": [
+    "vegan",
+    "healthy",
+    "salad",
+    "plant based",
+    "plant-based",
+    "bowls",
+    "gluten free",
+    "keto",
+    "veg"
+   ],
+   "area": "Sarjapur Road",
+   "address": "44, Sarjapur Main Road, Sarjapur Road, Bengaluru 560035",
+   "lat": 12.90843,
+   "lng": 77.6869,
+   "price_band": 2,
+   "avg_cost_for_two": 1220,
+   "rating": 4.2,
+   "reviews": 2700,
+   "seats": 58,
+   "table_mix": {
+    "2": 14,
+    "4": 6,
+    "6": 1
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "08:30",
+     "22:30"
+    ]
+   ],
+   "features": [
+    "pet_friendly",
+    "quiet"
+   ],
+   "dietary": [
+    "gluten_free",
+    "jain",
+    "pure_veg",
+    "vegan"
+   ],
+   "good_for": [
+    "solo",
+    "friends",
+    "business"
+   ],
+   "signature_dishes": [
+    "Millet Buddha Bowl",
+    "Jackfruit Tacos",
+    "Ragi Banana Pancakes"
+   ],
+   "description": "Plant-forward bowls, millet everything and cold-pressed juices. Pets welcome in the outdoor section.",
+   "popularity": 0.58
+  },
+  {
+   "id": "zaatar-and-co-frazer-town",
+   "name": "Zaatar & Co., Frazer Town",
+   "brand": "Zaatar & Co.",
+   "cuisine": "Lebanese & Mediterranean",
+   "cuisines": [
+    "Lebanese",
+    "Mediterranean",
+    "Middle Eastern"
+   ],
+   "tags": [
+    "lebanese",
+    "mediterranean",
+    "middle eastern",
+    "arabic",
+    "shawarma",
+    "falafel",
+    "hummus",
+    "mezze",
+    "grill"
+   ],
+   "area": "Frazer Town",
+   "address": "36, Mosque Road, Frazer Town, Bengaluru 560005",
+   "lat": 12.99927,
+   "lng": 77.61153,
+   "price_band": 2,
+   "avg_cost_for_two": 1380,
+   "rating": 4.2,
+   "reviews": 3060,
+   "seats": 70,
+   "table_mix": {
+    "2": 11,
+    "4": 9,
+    "6": 2
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "12:00",
+     "23:30"
+    ]
+   ],
+   "features": [
+    "kid_friendly"
+   ],
+   "dietary": [
+    "halal",
+    "vegan"
+   ],
+   "good_for": [
+    "friends",
+    "family",
+    "date_night"
+   ],
+   "signature_dishes": [
+    "Grand Mezze Platter",
+    "Chicken Shawarma Plate",
+    "Kunafa"
+   ],
+   "description": "Mezze spreads, charcoal-grilled shawarma and warm kunafa. Kids' menu and high chairs available.",
+   "popularity": 0.6
+  },
+  {
+   "id": "zaatar-and-co-koramangala",
+   "name": "Zaatar & Co., Koramangala",
+   "brand": "Zaatar & Co.",
+   "cuisine": "Lebanese & Mediterranean",
+   "cuisines": [
+    "Lebanese",
+    "Mediterranean",
+    "Middle Eastern"
+   ],
+   "tags": [
+    "lebanese",
+    "mediterranean",
+    "middle eastern",
+    "arabic",
+    "shawarma",
+    "falafel",
+    "hummus",
+    "mezze",
+    "grill"
+   ],
+   "area": "Koramangala",
+   "address": "253, 1st Main, 7th Block, Koramangala, Bengaluru 560034",
+   "lat": 12.93181,
+   "lng": 77.62778,
+   "price_band": 2,
+   "avg_cost_for_two": 1250,
+   "rating": 4.1,
+   "reviews": 3155,
+   "seats": 64,
+   "table_mix": {
+    "2": 10,
+    "4": 8,
+    "6": 2
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "12:00",
+     "23:30"
+    ]
+   ],
+   "features": [
+    "kid_friendly",
+    "live_music"
+   ],
+   "dietary": [
+    "halal",
+    "vegan"
+   ],
+   "good_for": [
+    "friends",
+    "family",
+    "date_night"
+   ],
+   "signature_dishes": [
+    "Grand Mezze Platter",
+    "Chicken Shawarma Plate",
+    "Kunafa"
+   ],
+   "description": "Mezze spreads, charcoal-grilled shawarma and warm kunafa. Kids' menu and high chairs available.",
+   "popularity": 0.71
+  },
+  {
+   "id": "zaatar-and-co-church-street",
+   "name": "Zaatar & Co., Church Street",
+   "brand": "Zaatar & Co.",
+   "cuisine": "Lebanese & Mediterranean",
+   "cuisines": [
+    "Lebanese",
+    "Mediterranean",
+    "Middle Eastern"
+   ],
+   "tags": [
+    "lebanese",
+    "mediterranean",
+    "middle eastern",
+    "arabic",
+    "shawarma",
+    "falafel",
+    "hummus",
+    "mezze",
+    "grill"
+   ],
+   "area": "Church Street",
+   "address": "7, Museum Road, Church Street, Bengaluru 560001",
+   "lat": 12.97099,
+   "lng": 77.60035,
+   "price_band": 2,
+   "avg_cost_for_two": 1360,
+   "rating": 4.3,
+   "reviews": 3183,
+   "seats": 52,
+   "table_mix": {
+    "2": 8,
+    "4": 6,
+    "6": 2
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "12:00",
+     "23:30"
+    ]
+   ],
+   "features": [
+    "kid_friendly",
+    "live_music",
+    "wheelchair_accessible"
+   ],
+   "dietary": [
+    "halal",
+    "vegan"
+   ],
+   "good_for": [
+    "friends",
+    "family",
+    "date_night"
+   ],
+   "signature_dishes": [
+    "Grand Mezze Platter",
+    "Chicken Shawarma Plate",
+    "Kunafa"
+   ],
+   "description": "Mezze spreads, charcoal-grilled shawarma and warm kunafa. Live acoustic sets on Friday and Saturday nights.",
+   "popularity": 0.78
+  },
+  {
+   "id": "zaatar-and-co-bellandur",
+   "name": "Zaatar & Co., Bellandur",
+   "brand": "Zaatar & Co.",
+   "cuisine": "Lebanese & Mediterranean",
+   "cuisines": [
+    "Lebanese",
+    "Mediterranean",
+    "Middle Eastern"
+   ],
+   "tags": [
+    "lebanese",
+    "mediterranean",
+    "middle eastern",
+    "arabic",
+    "shawarma",
+    "falafel",
+    "hummus",
+    "mezze",
+    "grill"
+   ],
+   "area": "Bellandur",
+   "address": "160, Outer Ring Road, Bellandur, Bengaluru 560103",
+   "lat": 12.93389,
+   "lng": 77.67454,
+   "price_band": 2,
+   "avg_cost_for_two": 1300,
+   "rating": 4.5,
+   "reviews": 1867,
+   "seats": 62,
+   "table_mix": {
+    "2": 9,
+    "4": 8,
+    "6": 2
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "12:00",
+     "23:30"
+    ]
+   ],
+   "features": [
+    "kid_friendly",
+    "outdoor_seating",
+    "wheelchair_accessible"
+   ],
+   "dietary": [
+    "halal",
+    "vegan"
+   ],
+   "good_for": [
+    "friends",
+    "family",
+    "date_night"
+   ],
+   "signature_dishes": [
+    "Grand Mezze Platter",
+    "Chicken Shawarma Plate",
+    "Kunafa"
+   ],
+   "description": "Mezze spreads, charcoal-grilled shawarma and warm kunafa. Ask for the garden courtyard tables.",
+   "popularity": 0.84
+  },
+  {
+   "id": "sakura-street-indiranagar",
+   "name": "Sakura Street, Indiranagar",
+   "brand": "Sakura Street",
+   "cuisine": "Japanese",
+   "cuisines": [
+    "Japanese",
+    "Sushi"
+   ],
+   "tags": [
+    "japanese",
+    "sushi",
+    "ramen",
+    "katsu",
+    "sashimi",
+    "asian",
+    "pan asian"
+   ],
+   "area": "Indiranagar",
+   "address": "47, 12th Main Road, Indiranagar, Bengaluru 560038",
+   "lat": 12.97388,
+   "lng": 77.63929,
+   "price_band": 4,
+   "avg_cost_for_two": 3130,
+   "rating": 4.7,
+   "reviews": 4081,
+   "seats": 58,
+   "table_mix": {
+    "2": 14,
+    "4": 6,
+    "6": 1
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "12:30",
+     "15:00"
+    ],
+    [
+     "19:00",
+     "23:00"
+    ]
+   ],
+   "features": [
+    "bar",
+    "quiet",
+    "valet_parking",
+    "wheelchair_accessible"
+   ],
+   "dietary": [
+    "gluten_free"
+   ],
+   "good_for": [
+    "date_night",
+    "business"
+   ],
+   "signature_dishes": [
+    "Salmon Nigiri",
+    "Tonkotsu Ramen",
+    "Matcha Cheesecake"
+   ],
+   "description": "An omakase-style sushi counter, rich ramen and a sake list. A calmer outpost, good for conversation.",
+   "popularity": 1.0
+  },
+  {
+   "id": "sakura-street-lavelle-road",
+   "name": "Sakura Street, Lavelle Road",
+   "brand": "Sakura Street",
+   "cuisine": "Japanese",
+   "cuisines": [
+    "Japanese",
+    "Sushi"
+   ],
+   "tags": [
+    "japanese",
+    "sushi",
+    "ramen",
+    "katsu",
+    "sashimi",
+    "asian",
+    "pan asian"
+   ],
+   "area": "Lavelle Road",
+   "address": "255, Vittal Mallya Road, Lavelle Road, Bengaluru 560001",
+   "lat": 12.96985,
+   "lng": 77.59477,
+   "price_band": 4,
+   "avg_cost_for_two": 3550,
+   "rating": 4.9,
+   "reviews": 2647,
+   "seats": 60,
+   "table_mix": {
+    "2": 15,
+    "4": 6,
+    "6": 1
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "12:30",
+     "15:00"
+    ],
+    [
+     "19:00",
+     "23:00"
+    ]
+   ],
+   "features": [
+    "bar",
+    "quiet"
+   ],
+   "dietary": [
+    "gluten_free"
+   ],
+   "good_for": [
+    "date_night",
+    "business"
+   ],
+   "signature_dishes": [
+    "Salmon Nigiri",
+    "Tonkotsu Ramen",
+    "Matcha Cheesecake"
+   ],
+   "description": "An omakase-style sushi counter, rich ramen and a sake list. A calmer outpost, good for conversation.",
+   "popularity": 1.0
+  },
+  {
+   "id": "sakura-street-whitefield",
+   "name": "Sakura Street, Whitefield",
+   "brand": "Sakura Street",
+   "cuisine": "Japanese",
+   "cuisines": [
+    "Japanese",
+    "Sushi"
+   ],
+   "tags": [
+    "japanese",
+    "sushi",
+    "ramen",
+    "katsu",
+    "sashimi",
+    "asian",
+    "pan asian"
+   ],
+   "area": "Whitefield",
+   "address": "167, Whitefield Main Road, Bengaluru 560066",
+   "lat": 12.97251,
+   "lng": 77.74696,
+   "price_band": 4,
+   "avg_cost_for_two": 3530,
+   "rating": 4.5,
+   "reviews": 1586,
+   "seats": 60,
+   "table_mix": {
+    "2": 15,
+    "4": 6,
+    "6": 1
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "12:30",
+     "15:00"
+    ],
+    [
+     "19:00",
+     "23:00"
+    ]
+   ],
+   "features": [
+    "bar",
+    "quiet",
+    "valet_parking",
+    "wheelchair_accessible"
+   ],
+   "dietary": [
+    "gluten_free"
+   ],
+   "good_for": [
+    "date_night",
+    "business"
+   ],
+   "signature_dishes": [
+    "Salmon Nigiri",
+    "Tonkotsu Ramen",
+    "Matcha Cheesecake"
+   ],
+   "description": "An omakase-style sushi counter, rich ramen and a sake list. A calmer outpost, good for conversation.",
+   "popularity": 0.92
+  },
+  {
+   "id": "nawabs-biryani-house-frazer-town",
+   "name": "Nawab's Biryani House, Frazer Town",
+   "brand": "Nawab's Biryani House",
+   "cuisine": "Hyderabadi & Awadhi",
+   "cuisines": [
+    "Biryani",
+    "Hyderabadi",
+    "Awadhi"
+   ],
+   "tags": [
+    "biryani",
+    "hyderabadi",
+    "awadhi",
+    "lucknowi",
+    "kebab",
+    "haleem",
+    "mughlai",
+    "indian",
+    "north indian"
+   ],
+   "area": "Frazer Town",
+   "address": "185, Coles Road, Frazer Town, Bengaluru 560005",
+   "lat": 13.00005,
+   "lng": 77.61783,
+   "price_band": 2,
+   "avg_cost_for_two": 870,
+   "rating": 4.4,
+   "reviews": 3213,
+   "seats": 100,
+   "table_mix": {
+    "2": 8,
+    "4": 13,
+    "6": 4,
+    "8": 1
+   },
+   "private_dining_capacity": 16,
+   "hours": [
+    [
+     "12:00",
+     "23:30"
+    ]
+   ],
+   "features": [
+    "kid_friendly",
+    "outdoor_seating",
+    "private_dining",
+    "wheelchair_accessible"
+   ],
+   "dietary": [
+    "halal"
+   ],
+   "good_for": [
+    "family",
+    "friends",
+    "large_groups"
+   ],
+   "signature_dishes": [
+    "Hyderabadi Dum Biryani",
+    "Galouti Kebab",
+    "Double ka Meetha"
+   ],
+   "description": "Dum-cooked biryanis, melt-in-the-mouth galoutis and Hyderabadi desserts. Ask for the garden courtyard tables. Private dining room for up to 16 guests.",
+   "popularity": 0.77
+  },
+  {
+   "id": "nawabs-biryani-house-btm-layout",
+   "name": "Nawab's Biryani House, BTM Layout",
+   "brand": "Nawab's Biryani House",
+   "cuisine": "Hyderabadi & Awadhi",
+   "cuisines": [
+    "Biryani",
+    "Hyderabadi",
+    "Awadhi"
+   ],
+   "tags": [
+    "biryani",
+    "hyderabadi",
+    "awadhi",
+    "lucknowi",
+    "kebab",
+    "haleem",
+    "mughlai",
+    "indian",
+    "north indian"
+   ],
+   "area": "BTM Layout",
+   "address": "396, 29th Main Road, BTM Layout, Bengaluru 560076",
+   "lat": 12.91888,
+   "lng": 77.60952,
+   "price_band": 2,
+   "avg_cost_for_two": 820,
+   "rating": 4.3,
+   "reviews": 1793,
+   "seats": 68,
+   "table_mix": {
+    "2": 5,
+    "4": 8,
+    "6": 3,
+    "8": 1
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "12:00",
+     "23:30"
+    ]
+   ],
+   "features": [
+    "kid_friendly",
+    "wheelchair_accessible"
+   ],
+   "dietary": [
+    "halal"
+   ],
+   "good_for": [
+    "family",
+    "friends",
+    "large_groups"
+   ],
+   "signature_dishes": [
+    "Hyderabadi Dum Biryani",
+    "Galouti Kebab",
+    "Double ka Meetha"
+   ],
+   "description": "Dum-cooked biryanis, melt-in-the-mouth galoutis and Hyderabadi desserts. Kids' menu and high chairs available.",
+   "popularity": 0.7
+  },
+  {
+   "id": "nawabs-biryani-house-marathahalli",
+   "name": "Nawab's Biryani House, Marathahalli",
+   "brand": "Nawab's Biryani House",
+   "cuisine": "Hyderabadi & Awadhi",
+   "cuisines": [
+    "Biryani",
+    "Hyderabadi",
+    "Awadhi"
+   ],
+   "tags": [
+    "biryani",
+    "hyderabadi",
+    "awadhi",
+    "lucknowi",
+    "kebab",
+    "haleem",
+    "mughlai",
+    "indian",
+    "north indian"
+   ],
+   "area": "Marathahalli",
+   "address": "42, Outer Ring Road, Marathahalli, Bengaluru 560037",
+   "lat": 12.96257,
+   "lng": 77.69669,
+   "price_band": 2,
+   "avg_cost_for_two": 930,
+   "rating": 4.4,
+   "reviews": 3624,
+   "seats": 104,
+   "table_mix": {
+    "2": 8,
+    "4": 14,
+    "6": 4,
+    "8": 1
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "12:00",
+     "23:30"
+    ]
+   ],
+   "features": [
+    "kid_friendly"
+   ],
+   "dietary": [
+    "halal"
+   ],
+   "good_for": [
+    "family",
+    "friends",
+    "large_groups"
+   ],
+   "signature_dishes": [
+    "Hyderabadi Dum Biryani",
+    "Galouti Kebab",
+    "Double ka Meetha"
+   ],
+   "description": "Dum-cooked biryanis, melt-in-the-mouth galoutis and Hyderabadi desserts. Kids' menu and high chairs available.",
+   "popularity": 0.77
+  },
+  {
+   "id": "nawabs-biryani-house-electronic-city",
+   "name": "Nawab's Biryani House, Electronic City",
+   "brand": "Nawab's Biryani House",
+   "cuisine": "Hyderabadi & Awadhi",
+   "cuisines": [
+    "Biryani",
+    "Hyderabadi",
+    "Awadhi"
+   ],
+   "tags": [
+    "biryani",
+    "hyderabadi",
+    "awadhi",
+    "lucknowi",
+    "kebab",
+    "haleem",
+    "mughlai",
+    "indian",
+    "north indian"
+   ],
+   "area": "Electronic City",
+   "address": "153, Neeladri Road, Electronic City, Bengaluru 560100",
+   "lat": 12.84711,
+   "lng": 77.66401,
+   "price_band": 2,
+   "avg_cost_for_two": 860,
+   "rating": 4.4,
+   "reviews": 2234,
+   "seats": 68,
+   "table_mix": {
+    "2": 5,
+    "4": 8,
+    "6": 3,
+    "8": 1
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "12:00",
+     "23:30"
+    ]
+   ],
+   "features": [
+    "kid_friendly",
+    "outdoor_seating",
+    "wheelchair_accessible"
+   ],
+   "dietary": [
+    "halal"
+   ],
+   "good_for": [
+    "family",
+    "friends",
+    "large_groups"
+   ],
+   "signature_dishes": [
+    "Hyderabadi Dum Biryani",
+    "Galouti Kebab",
+    "Double ka Meetha"
+   ],
+   "description": "Dum-cooked biryanis, melt-in-the-mouth galoutis and Hyderabadi desserts. Kids' menu and high chairs available.",
+   "popularity": 0.7
+  },
+  {
+   "id": "nawabs-biryani-house-banashankari",
+   "name": "Nawab's Biryani House, Banashankari",
+   "brand": "Nawab's Biryani House",
+   "cuisine": "Hyderabadi & Awadhi",
+   "cuisines": [
+    "Biryani",
+    "Hyderabadi",
+    "Awadhi"
+   ],
+   "tags": [
+    "biryani",
+    "hyderabadi",
+    "awadhi",
+    "lucknowi",
+    "kebab",
+    "haleem",
+    "mughlai",
+    "indian",
+    "north indian"
+   ],
+   "area": "Banashankari",
+   "address": "107, 50 Feet Road, Banashankari, Bengaluru 560070",
+   "lat": 12.9259,
+   "lng": 77.54642,
+   "price_band": 2,
+   "avg_cost_for_two": 880,
+   "rating": 4.3,
+   "reviews": 1497,
+   "seats": 100,
+   "table_mix": {
+    "2": 8,
+    "4": 13,
+    "6": 4,
+    "8": 1
+   },
+   "private_dining_capacity": 19,
+   "hours": [
+    [
+     "12:00",
+     "23:30"
+    ]
+   ],
+   "features": [
+    "kid_friendly",
+    "outdoor_seating",
+    "private_dining"
+   ],
+   "dietary": [
+    "halal"
+   ],
+   "good_for": [
+    "family",
+    "friends",
+    "large_groups"
+   ],
+   "signature_dishes": [
+    "Hyderabadi Dum Biryani",
+    "Galouti Kebab",
+    "Double ka Meetha"
+   ],
+   "description": "Dum-cooked biryanis, melt-in-the-mouth galoutis and Hyderabadi desserts. Ask for the garden courtyard tables. Private dining room for up to 19 guests.",
+   "popularity": 0.6
+  },
+  {
+   "id": "nawabs-biryani-house-rajajinagar",
+   "name": "Nawab's Biryani House, Rajajinagar",
+   "brand": "Nawab's Biryani House",
+   "cuisine": "Hyderabadi & Awadhi",
+   "cuisines": [
+    "Biryani",
+    "Hyderabadi",
+    "Awadhi"
+   ],
+   "tags": [
+    "biryani",
+    "hyderabadi",
+    "awadhi",
+    "lucknowi",
+    "kebab",
+    "haleem",
+    "mughlai",
+    "indian",
+    "north indian"
+   ],
+   "area": "Rajajinagar",
+   "address": "133, Dr Rajkumar Road, Rajajinagar, Bengaluru 560010",
+   "lat": 12.9941,
+   "lng": 77.554,
+   "price_band": 2,
+   "avg_cost_for_two": 890,
+   "rating": 4.4,
+   "reviews": 1811,
+   "seats": 104,
+   "table_mix": {
+    "2": 8,
+    "4": 14,
+    "6": 4,
+    "8": 1
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "12:00",
+     "23:30"
+    ]
+   ],
+   "features": [
+    "kid_friendly",
+    "outdoor_seating",
+    "wheelchair_accessible"
+   ],
+   "dietary": [
+    "halal"
+   ],
+   "good_for": [
+    "family",
+    "friends",
+    "large_groups"
+   ],
+   "signature_dishes": [
+    "Hyderabadi Dum Biryani",
+    "Galouti Kebab",
+    "Double ka Meetha"
+   ],
+   "description": "Dum-cooked biryanis, melt-in-the-mouth galoutis and Hyderabadi desserts. Kids' menu and high chairs available.",
+   "popularity": 0.65
+  },
+  {
+   "id": "cantina-fuego-koramangala",
+   "name": "Cantina Fuego, Koramangala",
+   "brand": "Cantina Fuego",
+   "cuisine": "Mexican",
+   "cuisines": [
+    "Mexican",
+    "Tex-Mex"
+   ],
+   "tags": [
+    "mexican",
+    "tacos",
+    "burrito",
+    "nachos",
+    "tex mex",
+    "quesadilla",
+    "margarita"
+   ],
+   "area": "Koramangala",
+   "address": "256, Jyoti Nivas College Road, Koramangala, Bengaluru 560034",
+   "lat": 12.93579,
+   "lng": 77.62338,
+   "price_band": 2,
+   "avg_cost_for_two": 1580,
+   "rating": 4.3,
+   "reviews": 4047,
+   "seats": 90,
+   "table_mix": {
+    "2": 11,
+    "4": 11,
+    "6": 4
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "12:00",
+     "23:30"
+    ]
+   ],
+   "features": [
+    "bar",
+    "live_music",
+    "sports_screening"
+   ],
+   "dietary": [
+    "gluten_free",
+    "vegan"
+   ],
+   "good_for": [
+    "friends",
+    "birthday",
+    "date_night"
+   ],
+   "signature_dishes": [
+    "Birria Tacos",
+    "Loaded Nachos",
+    "Cinnamon Churros"
+   ],
+   "description": "Birria tacos, loaded nachos and frozen margaritas with a loud playlist. Big screens for cricket and football nights.",
+   "popularity": 0.84
+  },
+  {
+   "id": "cantina-fuego-indiranagar",
+   "name": "Cantina Fuego, Indiranagar",
+   "brand": "Cantina Fuego",
+   "cuisine": "Mexican",
+   "cuisines": [
+    "Mexican",
+    "Tex-Mex"
+   ],
+   "tags": [
+    "mexican",
+    "tacos",
+    "burrito",
+    "nachos",
+    "tex mex",
+    "quesadilla",
+    "margarita"
+   ],
+   "area": "Indiranagar",
+   "address": "331, Double Road, Indiranagar, Bengaluru 560038",
+   "lat": 12.97135,
+   "lng": 77.6397,
+   "price_band": 2,
+   "avg_cost_for_two": 1620,
+   "rating": 4.2,
+   "reviews": 2615,
+   "seats": 96,
+   "table_mix": {
+    "2": 12,
+    "4": 12,
+    "6": 4
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "12:00",
+     "23:30"
+    ]
+   ],
+   "features": [
+    "bar",
+    "live_music"
+   ],
+   "dietary": [
+    "gluten_free",
+    "vegan"
+   ],
+   "good_for": [
+    "friends",
+    "birthday",
+    "date_night"
+   ],
+   "signature_dishes": [
+    "Birria Tacos",
+    "Loaded Nachos",
+    "Cinnamon Churros"
+   ],
+   "description": "Birria tacos, loaded nachos and frozen margaritas with a loud playlist. Live acoustic sets on Friday and Saturday nights.",
+   "popularity": 0.77
+  },
+  {
+   "id": "cantina-fuego-whitefield",
+   "name": "Cantina Fuego, Whitefield",
+   "brand": "Cantina Fuego",
+   "cuisine": "Mexican",
+   "cuisines": [
+    "Mexican",
+    "Tex-Mex"
+   ],
+   "tags": [
+    "mexican",
+    "tacos",
+    "burrito",
+    "nachos",
+    "tex mex",
+    "quesadilla",
+    "margarita"
+   ],
+   "area": "Whitefield",
+   "address": "1, ITPL Main Road, Whitefield, Bengaluru 560066",
+   "lat": 12.96893,
+   "lng": 77.75341,
+   "price_band": 2,
+   "avg_cost_for_two": 1620,
+   "rating": 4.3,
+   "reviews": 3987,
+   "seats": 66,
+   "table_mix": {
+    "2": 8,
+    "4": 8,
+    "6": 3
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "12:00",
+     "23:30"
+    ]
+   ],
+   "features": [
+    "bar",
+    "live_music",
+    "outdoor_seating",
+    "sports_screening"
+   ],
+   "dietary": [
+    "gluten_free",
+    "vegan"
+   ],
+   "good_for": [
+    "friends",
+    "birthday",
+    "date_night"
+   ],
+   "signature_dishes": [
+    "Birria Tacos",
+    "Loaded Nachos",
+    "Cinnamon Churros"
+   ],
+   "description": "Birria tacos, loaded nachos and frozen margaritas with a loud playlist. Live acoustic sets on Friday and Saturday nights.",
+   "popularity": 0.79
+  },
+  {
+   "id": "the-brew-ledger-koramangala",
+   "name": "The Brew Ledger, Koramangala",
+   "brand": "The Brew Ledger",
+   "cuisine": "Gastropub",
+   "cuisines": [
+    "Gastropub",
+    "Continental",
+    "Microbrewery"
+   ],
+   "tags": [
+    "pub",
+    "gastropub",
+    "beer",
+    "craft beer",
+    "brewery",
+    "microbrewery",
+    "bar",
+    "drinks",
+    "burgers",
+    "continental"
+   ],
+   "area": "Koramangala",
+   "address": "1, 5th Block, Koramangala, Bengaluru 560034",
+   "lat": 12.93306,
+   "lng": 77.62786,
+   "price_band": 3,
+   "avg_cost_for_two": 2080,
+   "rating": 4.1,
+   "reviews": 3764,
+   "seats": 200,
+   "table_mix": {
+    "2": 10,
+    "4": 22,
+    "6": 10,
+    "8": 4
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "12:00",
+     "23:30"
+    ]
+   ],
+   "features": [
+    "bar",
+    "live_music",
+    "outdoor_seating",
+    "rooftop",
+    "sports_screening",
+    "valet_parking"
+   ],
+   "dietary": [
+    "vegan"
+   ],
+   "good_for": [
+    "friends",
+    "large_groups",
+    "birthday",
+    "business"
+   ],
+   "signature_dishes": [
+    "Six-Beer Tasting Flight",
+    "Beer-battered Fish & Chips",
+    "Pulled Pork Burger"
+   ],
+   "description": "House-brewed craft beer, big-screen sport and live bands on weekends. Big screens for cricket and football nights.",
+   "popularity": 0.8
+  },
+  {
+   "id": "the-brew-ledger-indiranagar",
+   "name": "The Brew Ledger, Indiranagar",
+   "brand": "The Brew Ledger",
+   "cuisine": "Gastropub",
+   "cuisines": [
+    "Gastropub",
+    "Continental",
+    "Microbrewery"
+   ],
+   "tags": [
+    "pub",
+    "gastropub",
+    "beer",
+    "craft beer",
+    "brewery",
+    "microbrewery",
+    "bar",
+    "drinks",
+    "burgers",
+    "continental"
+   ],
+   "area": "Indiranagar",
+   "address": "154, 12th Main Road, Indiranagar, Bengaluru 560038",
+   "lat": 12.971,
+   "lng": 77.63899,
+   "price_band": 3,
+   "avg_cost_for_two": 2060,
+   "rating": 4.3,
+   "reviews": 1916,
+   "seats": 176,
+   "table_mix": {
+    "2": 9,
+    "4": 20,
+    "6": 9,
+    "8": 3
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "12:00",
+     "23:30"
+    ]
+   ],
+   "features": [
+    "bar",
+    "live_music",
+    "sports_screening",
+    "valet_parking"
+   ],
+   "dietary": [
+    "vegan"
+   ],
+   "good_for": [
+    "friends",
+    "large_groups",
+    "birthday",
+    "business"
+   ],
+   "signature_dishes": [
+    "Six-Beer Tasting Flight",
+    "Beer-battered Fish & Chips",
+    "Pulled Pork Burger"
+   ],
+   "description": "House-brewed craft beer, big-screen sport and live bands on weekends. Big screens for cricket and football nights.",
+   "popularity": 0.9
+  },
+  {
+   "id": "the-brew-ledger-whitefield",
+   "name": "The Brew Ledger, Whitefield",
+   "brand": "The Brew Ledger",
+   "cuisine": "Gastropub",
+   "cuisines": [
+    "Gastropub",
+    "Continental",
+    "Microbrewery"
+   ],
+   "tags": [
+    "pub",
+    "gastropub",
+    "beer",
+    "craft beer",
+    "brewery",
+    "microbrewery",
+    "bar",
+    "drinks",
+    "burgers",
+    "continental"
+   ],
+   "area": "Whitefield",
+   "address": "29, ITPL Main Road, Whitefield, Bengaluru 560066",
+   "lat": 12.96735,
+   "lng": 77.75308,
+   "price_band": 3,
+   "avg_cost_for_two": 2080,
+   "rating": 4.3,
+   "reviews": 1430,
+   "seats": 144,
+   "table_mix": {
+    "2": 7,
+    "4": 16,
+    "6": 7,
+    "8": 3
+   },
+   "private_dining_capacity": 27,
+   "hours": [
+    [
+     "12:00",
+     "23:30"
+    ]
+   ],
+   "features": [
+    "bar",
+    "live_music",
+    "outdoor_seating",
+    "private_dining",
+    "rooftop",
+    "sports_screening"
+   ],
+   "dietary": [
+    "vegan"
+   ],
+   "good_for": [
+    "friends",
+    "large_groups",
+    "birthday",
+    "business"
+   ],
+   "signature_dishes": [
+    "Six-Beer Tasting Flight",
+    "Beer-battered Fish & Chips",
+    "Pulled Pork Burger"
+   ],
+   "description": "House-brewed craft beer, big-screen sport and live bands on weekends. Live acoustic sets on Friday and Saturday nights. Private dining room for up to 27 guests.",
+   "popularity": 0.76
+  },
+  {
+   "id": "the-brew-ledger-hsr-layout",
+   "name": "The Brew Ledger, HSR Layout",
+   "brand": "The Brew Ledger",
+   "cuisine": "Gastropub",
+   "cuisines": [
+    "Gastropub",
+    "Continental",
+    "Microbrewery"
+   ],
+   "tags": [
+    "pub",
+    "gastropub",
+    "beer",
+    "craft beer",
+    "brewery",
+    "microbrewery",
+    "bar",
+    "drinks",
+    "burgers",
+    "continental"
+   ],
+   "area": "HSR Layout",
+   "address": "102, 27th Main Road, HSR Layout, Bengaluru 560102",
+   "lat": 12.91398,
+   "lng": 77.64931,
+   "price_band": 3,
+   "avg_cost_for_two": 2020,
+   "rating": 4.5,
+   "reviews": 4331,
+   "seats": 156,
+   "table_mix": {
+    "2": 8,
+    "4": 17,
+    "6": 8,
+    "8": 3
+   },
+   "private_dining_capacity": 30,
+   "hours": [
+    [
+     "12:00",
+     "23:30"
+    ]
+   ],
+   "features": [
+    "bar",
+    "live_music",
+    "outdoor_seating",
+    "private_dining",
+    "rooftop",
+    "sports_screening",
+    "valet_parking"
+   ],
+   "dietary": [
+    "vegan"
+   ],
+   "good_for": [
+    "friends",
+    "large_groups",
+    "birthday",
+    "business"
+   ],
+   "signature_dishes": [
+    "Six-Beer Tasting Flight",
+    "Beer-battered Fish & Chips",
+    "Pulled Pork Burger"
+   ],
+   "description": "House-brewed craft beer, big-screen sport and live bands on weekends. Live acoustic sets on Friday and Saturday nights. Private dining room for up to 30 guests.",
+   "popularity": 0.93
+  },
+  {
+   "id": "the-brew-ledger-mg-road",
+   "name": "The Brew Ledger, MG Road",
+   "brand": "The Brew Ledger",
+   "cuisine": "Gastropub",
+   "cuisines": [
+    "Gastropub",
+    "Continental",
+    "Microbrewery"
+   ],
+   "tags": [
+    "pub",
+    "gastropub",
+    "beer",
+    "craft beer",
+    "brewery",
+    "microbrewery",
+    "bar",
+    "drinks",
+    "burgers",
+    "continental"
+   ],
+   "area": "MG Road",
+   "address": "459, MG Road, Bengaluru 560001",
+   "lat": 12.97548,
+   "lng": 77.60828,
+   "price_band": 3,
+   "avg_cost_for_two": 1820,
+   "rating": 4.3,
+   "reviews": 3281,
+   "seats": 164,
+   "table_mix": {
+    "2": 8,
+    "4": 19,
+    "6": 8,
+    "8": 3
+   },
+   "private_dining_capacity": 23,
+   "hours": [
+    [
+     "12:00",
+     "23:30"
+    ]
+   ],
+   "features": [
+    "bar",
+    "live_music",
+    "private_dining",
+    "rooftop",
+    "sports_screening",
+    "valet_parking"
+   ],
+   "dietary": [
+    "vegan"
+   ],
+   "good_for": [
+    "friends",
+    "large_groups",
+    "birthday",
+    "business"
+   ],
+   "signature_dishes": [
+    "Six-Beer Tasting Flight",
+    "Beer-battered Fish & Chips",
+    "Pulled Pork Burger"
+   ],
+   "description": "House-brewed craft beer, big-screen sport and live bands on weekends. This outpost has a breezy rooftop deck. Private dining room for up to 23 guests.",
+   "popularity": 0.76
+  },
+  {
+   "id": "thali-theory-jayanagar",
+   "name": "Thali Theory, Jayanagar",
+   "brand": "Thali Theory",
+   "cuisine": "Rajasthani & Gujarati Thali",
+   "cuisines": [
+    "Thali",
+    "Rajasthani",
+    "Gujarati"
+   ],
+   "tags": [
+    "thali",
+    "rajasthani",
+    "gujarati",
+    "marwari",
+    "veg",
+    "indian",
+    "unlimited thali"
+   ],
+   "area": "Jayanagar",
+   "address": "213, 11th Main, 4th Block, Jayanagar, Bengaluru 560041",
+   "lat": 12.93248,
+   "lng": 77.58127,
+   "price_band": 2,
+   "avg_cost_for_two": 800,
+   "rating": 4.7,
+   "reviews": 3865,
+   "seats": 108,
+   "table_mix": {
+    "2": 8,
+    "4": 15,
+    "6": 4,
+    "8": 1
+   },
+   "private_dining_capacity": 15,
+   "hours": [
+    [
+     "11:30",
+     "15:30"
+    ],
+    [
+     "19:00",
+     "22:45"
+    ]
+   ],
+   "features": [
+    "kid_friendly",
+    "private_dining",
+    "quiet",
+    "wheelchair_accessible"
+   ],
+   "dietary": [
+    "jain",
+    "pure_veg"
+   ],
+   "good_for": [
+    "family",
+    "large_groups"
+   ],
+   "signature_dishes": [
+    "Unlimited Royal Thali",
+    "Dal Baati Churma",
+    "Gujarati Kadhi"
+   ],
+   "description": "Unlimited 28-item thalis served at your table, Jain versions on request. A calmer outpost, good for conversation. Private dining room for up to 15 guests.",
+   "popularity": 0.93
+  },
+  {
+   "id": "thali-theory-malleshwaram",
+   "name": "Thali Theory, Malleshwaram",
+   "brand": "Thali Theory",
+   "cuisine": "Rajasthani & Gujarati Thali",
+   "cuisines": [
+    "Thali",
+    "Rajasthani",
+    "Gujarati"
+   ],
+   "tags": [
+    "thali",
+    "rajasthani",
+    "gujarati",
+    "marwari",
+    "veg",
+    "indian",
+    "unlimited thali"
+   ],
+   "area": "Malleshwaram",
+   "address": "383, 8th Cross, Malleshwaram, Bengaluru 560003",
+   "lat": 12.99936,
+   "lng": 77.56562,
+   "price_band": 2,
+   "avg_cost_for_two": 790,
+   "rating": 4.6,
+   "reviews": 3374,
+   "seats": 88,
+   "table_mix": {
+    "2": 7,
+    "4": 12,
+    "6": 3,
+    "8": 1
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "11:30",
+     "15:30"
+    ],
+    [
+     "19:00",
+     "22:45"
+    ]
+   ],
+   "features": [
+    "kid_friendly",
+    "wheelchair_accessible"
+   ],
+   "dietary": [
+    "jain",
+    "pure_veg"
+   ],
+   "good_for": [
+    "family",
+    "large_groups"
+   ],
+   "signature_dishes": [
+    "Unlimited Royal Thali",
+    "Dal Baati Churma",
+    "Gujarati Kadhi"
+   ],
+   "description": "Unlimited 28-item thalis served at your table, Jain versions on request. Kids' menu and high chairs available.",
+   "popularity": 0.87
+  },
+  {
+   "id": "thali-theory-basavanagudi",
+   "name": "Thali Theory, Basavanagudi",
+   "brand": "Thali Theory",
+   "cuisine": "Rajasthani & Gujarati Thali",
+   "cuisines": [
+    "Thali",
+    "Rajasthani",
+    "Gujarati"
+   ],
+   "tags": [
+    "thali",
+    "rajasthani",
+    "gujarati",
+    "marwari",
+    "veg",
+    "indian",
+    "unlimited thali"
+   ],
+   "area": "Basavanagudi",
+   "address": "42, Gandhi Bazaar Main Road, Basavanagudi, Bengaluru 560004",
+   "lat": 12.94146,
+   "lng": 77.57838,
+   "price_band": 2,
+   "avg_cost_for_two": 820,
+   "rating": 4.4,
+   "reviews": 1437,
+   "seats": 92,
+   "table_mix": {
+    "2": 7,
+    "4": 13,
+    "6": 3,
+    "8": 1
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "11:30",
+     "15:30"
+    ],
+    [
+     "19:00",
+     "22:45"
+    ]
+   ],
+   "features": [
+    "kid_friendly",
+    "quiet",
+    "wheelchair_accessible"
+   ],
+   "dietary": [
+    "jain",
+    "pure_veg"
+   ],
+   "good_for": [
+    "family",
+    "large_groups"
+   ],
+   "signature_dishes": [
+    "Unlimited Royal Thali",
+    "Dal Baati Churma",
+    "Gujarati Kadhi"
+   ],
+   "description": "Unlimited 28-item thalis served at your table, Jain versions on request. Kids' menu and high chairs available.",
+   "popularity": 0.68
+  },
+  {
+   "id": "thali-theory-vijayanagar",
+   "name": "Thali Theory, Vijayanagar",
+   "brand": "Thali Theory",
+   "cuisine": "Rajasthani & Gujarati Thali",
+   "cuisines": [
+    "Thali",
+    "Rajasthani",
+    "Gujarati"
+   ],
+   "tags": [
+    "thali",
+    "rajasthani",
+    "gujarati",
+    "marwari",
+    "veg",
+    "indian",
+    "unlimited thali"
+   ],
+   "area": "Vijayanagar",
+   "address": "243, Chord Road, Vijayanagar, Bengaluru 560040",
+   "lat": 12.97088,
+   "lng": 77.53836,
+   "price_band": 2,
+   "avg_cost_for_two": 750,
+   "rating": 4.4,
+   "reviews": 3052,
+   "seats": 82,
+   "table_mix": {
+    "2": 6,
+    "4": 11,
+    "6": 3,
+    "8": 1
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "11:30",
+     "15:30"
+    ],
+    [
+     "19:00",
+     "22:45"
+    ]
+   ],
+   "features": [
+    "kid_friendly",
+    "wheelchair_accessible"
+   ],
+   "dietary": [
+    "jain",
+    "pure_veg"
+   ],
+   "good_for": [
+    "family",
+    "large_groups"
+   ],
+   "signature_dishes": [
+    "Unlimited Royal Thali",
+    "Dal Baati Churma",
+    "Gujarati Kadhi"
+   ],
+   "description": "Unlimited 28-item thalis served at your table, Jain versions on request. Kids' menu and high chairs available.",
+   "popularity": 0.65
+  },
+  {
+   "id": "morning-ritual-café-indiranagar",
+   "name": "Morning Ritual Café, Indiranagar",
+   "brand": "Morning Ritual Café",
+   "cuisine": "Café & Brunch",
+   "cuisines": [
+    "Café",
+    "Brunch",
+    "Bakery"
+   ],
+   "tags": [
+    "cafe",
+    "café",
+    "coffee",
+    "brunch",
+    "breakfast",
+    "bakery",
+    "desserts",
+    "continental",
+    "sandwich"
+   ],
+   "area": "Indiranagar",
+   "address": "21, Double Road, Indiranagar, Bengaluru 560038",
+   "lat": 12.96818,
+   "lng": 77.6377,
+   "price_band": 1,
+   "avg_cost_for_two": 770,
+   "rating": 4.7,
+   "reviews": 2715,
+   "seats": 40,
+   "table_mix": {
+    "2": 12,
+    "4": 4
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "08:00",
+     "22:00"
+    ]
+   ],
+   "features": [
+    "pet_friendly",
+    "quiet",
+    "wheelchair_accessible"
+   ],
+   "dietary": [
+    "gluten_free",
+    "vegan"
+   ],
+   "good_for": [
+    "solo",
+    "friends",
+    "business",
+    "date_night"
+   ],
+   "signature_dishes": [
+    "Avocado Sourdough Toast",
+    "Eggs Benedict",
+    "Almond Croissant"
+   ],
+   "description": "Slow brunches, single-origin pour-overs and a bakery counter. Pets welcome in the outdoor section.",
+   "popularity": 1.0
+  },
+  {
+   "id": "morning-ritual-café-koramangala",
+   "name": "Morning Ritual Café, Koramangala",
+   "brand": "Morning Ritual Café",
+   "cuisine": "Café & Brunch",
+   "cuisines": [
+    "Café",
+    "Brunch",
+    "Bakery"
+   ],
+   "tags": [
+    "cafe",
+    "café",
+    "coffee",
+    "brunch",
+    "breakfast",
+    "bakery",
+    "desserts",
+    "continental",
+    "sandwich"
+   ],
+   "area": "Koramangala",
+   "address": "383, Jyoti Nivas College Road, Koramangala, Bengaluru 560034",
+   "lat": 12.93859,
+   "lng": 77.62288,
+   "price_band": 1,
+   "avg_cost_for_two": 740,
+   "rating": 4.3,
+   "reviews": 3582,
+   "seats": 38,
+   "table_mix": {
+    "2": 11,
+    "4": 4
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "08:00",
+     "22:00"
+    ]
+   ],
+   "features": [
+    "outdoor_seating",
+    "pet_friendly",
+    "quiet",
+    "wheelchair_accessible"
+   ],
+   "dietary": [
+    "gluten_free",
+    "vegan"
+   ],
+   "good_for": [
+    "solo",
+    "friends",
+    "business",
+    "date_night"
+   ],
+   "signature_dishes": [
+    "Avocado Sourdough Toast",
+    "Eggs Benedict",
+    "Almond Croissant"
+   ],
+   "description": "Slow brunches, single-origin pour-overs and a bakery counter. Ask for the garden courtyard tables.",
+   "popularity": 0.84
+  },
+  {
+   "id": "morning-ritual-café-hsr-layout",
+   "name": "Morning Ritual Café, HSR Layout",
+   "brand": "Morning Ritual Café",
+   "cuisine": "Café & Brunch",
+   "cuisines": [
+    "Café",
+    "Brunch",
+    "Bakery"
+   ],
+   "tags": [
+    "cafe",
+    "café",
+    "coffee",
+    "brunch",
+    "breakfast",
+    "bakery",
+    "desserts",
+    "continental",
+    "sandwich"
+   ],
+   "area": "HSR Layout",
+   "address": "55, Sector 7, HSR Layout, Bengaluru 560102",
+   "lat": 12.91332,
+   "lng": 77.64713,
+   "price_band": 1,
+   "avg_cost_for_two": 750,
+   "rating": 4.3,
+   "reviews": 1543,
+   "seats": 50,
+   "table_mix": {
+    "2": 15,
+    "4": 5
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "08:00",
+     "22:00"
+    ]
+   ],
+   "features": [
+    "pet_friendly",
+    "quiet"
+   ],
+   "dietary": [
+    "gluten_free",
+    "vegan"
+   ],
+   "good_for": [
+    "solo",
+    "friends",
+    "business",
+    "date_night"
+   ],
+   "signature_dishes": [
+    "Avocado Sourdough Toast",
+    "Eggs Benedict",
+    "Almond Croissant"
+   ],
+   "description": "Slow brunches, single-origin pour-overs and a bakery counter. A calmer outpost, good for conversation.",
+   "popularity": 0.84
+  },
+  {
+   "id": "morning-ritual-café-jayanagar",
+   "name": "Morning Ritual Café, Jayanagar",
+   "brand": "Morning Ritual Café",
+   "cuisine": "Café & Brunch",
+   "cuisines": [
+    "Café",
+    "Brunch",
+    "Bakery"
+   ],
+   "tags": [
+    "cafe",
+    "café",
+    "coffee",
+    "brunch",
+    "breakfast",
+    "bakery",
+    "desserts",
+    "continental",
+    "sandwich"
+   ],
+   "area": "Jayanagar",
+   "address": "422, 9th Block, Jayanagar, Bengaluru 560041",
+   "lat": 12.93298,
+   "lng": 77.58466,
+   "price_band": 1,
+   "avg_cost_for_two": 680,
+   "rating": 4.1,
+   "reviews": 3024,
+   "seats": 56,
+   "table_mix": {
+    "2": 16,
+    "4": 6
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "08:00",
+     "22:00"
+    ]
+   ],
+   "features": [
+    "outdoor_seating",
+    "pet_friendly",
+    "quiet",
+    "wheelchair_accessible"
+   ],
+   "dietary": [
+    "gluten_free",
+    "vegan"
+   ],
+   "good_for": [
+    "solo",
+    "friends",
+    "business",
+    "date_night"
+   ],
+   "signature_dishes": [
+    "Avocado Sourdough Toast",
+    "Eggs Benedict",
+    "Almond Croissant"
+   ],
+   "description": "Slow brunches, single-origin pour-overs and a bakery counter. Pets welcome in the outdoor section.",
+   "popularity": 0.59
+  },
+  {
+   "id": "morning-ritual-café-malleshwaram",
+   "name": "Morning Ritual Café, Malleshwaram",
+   "brand": "Morning Ritual Café",
+   "cuisine": "Café & Brunch",
+   "cuisines": [
+    "Café",
+    "Brunch",
+    "Bakery"
+   ],
+   "tags": [
+    "cafe",
+    "café",
+    "coffee",
+    "brunch",
+    "breakfast",
+    "bakery",
+    "desserts",
+    "continental",
+    "sandwich"
+   ],
+   "area": "Malleshwaram",
+   "address": "386, Sampige Road, Malleshwaram, Bengaluru 560003",
+   "lat": 13.00108,
+   "lng": 77.56082,
+   "price_band": 1,
+   "avg_cost_for_two": 640,
+   "rating": 4.4,
+   "reviews": 3076,
+   "seats": 40,
+   "table_mix": {
+    "2": 12,
+    "4": 4
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "08:00",
+     "22:00"
+    ]
+   ],
+   "features": [
+    "outdoor_seating",
+    "pet_friendly",
+    "quiet"
+   ],
+   "dietary": [
+    "gluten_free",
+    "vegan"
+   ],
+   "good_for": [
+    "solo",
+    "friends",
+    "business",
+    "date_night"
+   ],
+   "signature_dishes": [
+    "Avocado Sourdough Toast",
+    "Eggs Benedict",
+    "Almond Croissant"
+   ],
+   "description": "Slow brunches, single-origin pour-overs and a bakery counter. Ask for the garden courtyard tables.",
+   "popularity": 0.8
+  },
+  {
+   "id": "morning-ritual-café-whitefield",
+   "name": "Morning Ritual Café, Whitefield",
+   "brand": "Morning Ritual Café",
+   "cuisine": "Café & Brunch",
+   "cuisines": [
+    "Café",
+    "Brunch",
+    "Bakery"
+   ],
+   "tags": [
+    "cafe",
+    "café",
+    "coffee",
+    "brunch",
+    "breakfast",
+    "bakery",
+    "desserts",
+    "continental",
+    "sandwich"
+   ],
+   "area": "Whitefield",
+   "address": "107, ITPL Main Road, Whitefield, Bengaluru 560066",
+   "lat": 12.96917,
+   "lng": 77.75391,
+   "price_band": 1,
+   "avg_cost_for_two": 780,
+   "rating": 4.3,
+   "reviews": 3040,
+   "seats": 48,
+   "table_mix": {
+    "2": 14,
+    "4": 5
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "08:00",
+     "22:00"
+    ]
+   ],
+   "features": [
+    "pet_friendly",
+    "quiet",
+    "wheelchair_accessible"
+   ],
+   "dietary": [
+    "gluten_free",
+    "vegan"
+   ],
+   "good_for": [
+    "solo",
+    "friends",
+    "business",
+    "date_night"
+   ],
+   "signature_dishes": [
+    "Avocado Sourdough Toast",
+    "Eggs Benedict",
+    "Almond Croissant"
+   ],
+   "description": "Slow brunches, single-origin pour-overs and a bakery counter. A calmer outpost, good for conversation.",
+   "popularity": 0.7
+  },
+  {
+   "id": "chettinad-courtyard-jp-nagar",
+   "name": "Chettinad Courtyard, JP Nagar",
+   "brand": "Chettinad Courtyard",
+   "cuisine": "Chettinad",
+   "cuisines": [
+    "Chettinad",
+    "Tamil"
+   ],
+   "tags": [
+    "chettinad",
+    "tamil",
+    "south indian",
+    "kothu parotta",
+    "spicy",
+    "indian",
+    "biryani"
+   ],
+   "area": "JP Nagar",
+   "address": "400, 15th Cross Road, JP Nagar, Bengaluru 560078",
+   "lat": 12.90465,
+   "lng": 77.58624,
+   "price_band": 2,
+   "avg_cost_for_two": 980,
+   "rating": 4.4,
+   "reviews": 3667,
+   "seats": 62,
+   "table_mix": {
+    "2": 6,
+    "4": 8,
+    "6": 3
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "12:00",
+     "15:30"
+    ],
+    [
+     "19:00",
+     "23:00"
+    ]
+   ],
+   "features": [
+    "kid_friendly",
+    "quiet"
+   ],
+   "dietary": [
+    "halal"
+   ],
+   "good_for": [
+    "family",
+    "friends"
+   ],
+   "signature_dishes": [
+    "Chettinad Pepper Chicken",
+    "Kothu Parotta",
+    "Mushroom Pepper Fry"
+   ],
+   "description": "Fiery Karaikudi spice blends served in a tiled courtyard. A calmer outpost, good for conversation.",
+   "popularity": 0.76
+  },
+  {
+   "id": "chettinad-courtyard-banashankari",
+   "name": "Chettinad Courtyard, Banashankari",
+   "brand": "Chettinad Courtyard",
+   "cuisine": "Chettinad",
+   "cuisines": [
+    "Chettinad",
+    "Tamil"
+   ],
+   "tags": [
+    "chettinad",
+    "tamil",
+    "south indian",
+    "kothu parotta",
+    "spicy",
+    "indian",
+    "biryani"
+   ],
+   "area": "Banashankari",
+   "address": "129, Outer Ring Road, Banashankari, Bengaluru 560070",
+   "lat": 12.92556,
+   "lng": 77.54465,
+   "price_band": 2,
+   "avg_cost_for_two": 1080,
+   "rating": 4.3,
+   "reviews": 1259,
+   "seats": 68,
+   "table_mix": {
+    "2": 7,
+    "4": 9,
+    "6": 3
+   },
+   "private_dining_capacity": 12,
+   "hours": [
+    [
+     "12:00",
+     "15:30"
+    ],
+    [
+     "19:00",
+     "23:00"
+    ]
+   ],
+   "features": [
+    "kid_friendly",
+    "private_dining",
+    "quiet",
+    "wheelchair_accessible"
+   ],
+   "dietary": [
+    "halal"
+   ],
+   "good_for": [
+    "family",
+    "friends"
+   ],
+   "signature_dishes": [
+    "Chettinad Pepper Chicken",
+    "Kothu Parotta",
+    "Mushroom Pepper Fry"
+   ],
+   "description": "Fiery Karaikudi spice blends served in a tiled courtyard. Kids' menu and high chairs available. Private dining room for up to 12 guests.",
+   "popularity": 0.6
+  },
+  {
+   "id": "chettinad-courtyard-domlur",
+   "name": "Chettinad Courtyard, Domlur",
+   "brand": "Chettinad Courtyard",
+   "cuisine": "Chettinad",
+   "cuisines": [
+    "Chettinad",
+    "Tamil"
+   ],
+   "tags": [
+    "chettinad",
+    "tamil",
+    "south indian",
+    "kothu parotta",
+    "spicy",
+    "indian",
+    "biryani"
+   ],
+   "area": "Domlur",
+   "address": "21, Domlur Layout, Bengaluru 560071",
+   "lat": 12.95886,
+   "lng": 77.6351,
+   "price_band": 2,
+   "avg_cost_for_two": 1030,
+   "rating": 4.7,
+   "reviews": 3369,
+   "seats": 78,
+   "table_mix": {
+    "2": 8,
+    "4": 11,
+    "6": 3
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "12:00",
+     "15:30"
+    ],
+    [
+     "19:00",
+     "23:00"
+    ]
+   ],
+   "features": [
+    "kid_friendly",
+    "quiet",
+    "wheelchair_accessible"
+   ],
+   "dietary": [
+    "halal"
+   ],
+   "good_for": [
+    "family",
+    "friends"
+   ],
+   "signature_dishes": [
+    "Chettinad Pepper Chicken",
+    "Kothu Parotta",
+    "Mushroom Pepper Fry"
+   ],
+   "description": "Fiery Karaikudi spice blends served in a tiled courtyard. Kids' menu and high chairs available.",
+   "popularity": 0.95
+  },
+  {
+   "id": "mishti-and-mustard-hsr-layout",
+   "name": "Mishti & Mustard, HSR Layout",
+   "brand": "Mishti & Mustard",
+   "cuisine": "Bengali",
+   "cuisines": [
+    "Bengali"
+   ],
+   "tags": [
+    "bengali",
+    "kolkata",
+    "fish curry",
+    "kosha mangsho",
+    "indian",
+    "mishti"
+   ],
+   "area": "HSR Layout",
+   "address": "309, Sector 7, HSR Layout, Bengaluru 560102",
+   "lat": 12.9138,
+   "lng": 77.64872,
+   "price_band": 2,
+   "avg_cost_for_two": 990,
+   "rating": 4.4,
+   "reviews": 3171,
+   "seats": 68,
+   "table_mix": {
+    "2": 10,
+    "4": 9,
+    "6": 2
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "12:00",
+     "15:30"
+    ],
+    [
+     "19:00",
+     "22:45"
+    ]
+   ],
+   "features": [
+    "quiet"
+   ],
+   "dietary": [
+    "gluten_free"
+   ],
+   "good_for": [
+    "family",
+    "friends"
+   ],
+   "signature_dishes": [
+    "Kosha Mangsho",
+    "Shorshe Ilish",
+    "Mishti Doi"
+   ],
+   "description": "Home-style Bengali cooking, from shorshe ilish to mishti doi. A calmer outpost, good for conversation.",
+   "popularity": 0.89
+  },
+  {
+   "id": "mishti-and-mustard-kalyan-nagar",
+   "name": "Mishti & Mustard, Kalyan Nagar",
+   "brand": "Mishti & Mustard",
+   "cuisine": "Bengali",
+   "cuisines": [
+    "Bengali"
+   ],
+   "tags": [
+    "bengali",
+    "kolkata",
+    "fish curry",
+    "kosha mangsho",
+    "indian",
+    "mishti"
+   ],
+   "area": "Kalyan Nagar",
+   "address": "20, Kammanahalli Main Road, Kalyan Nagar, Bengaluru 560043",
+   "lat": 13.02082,
+   "lng": 77.63665,
+   "price_band": 2,
+   "avg_cost_for_two": 1230,
+   "rating": 4.2,
+   "reviews": 1778,
+   "seats": 62,
+   "table_mix": {
+    "2": 9,
+    "4": 8,
+    "6": 2
+   },
+   "private_dining_capacity": null,
+   "hours": [
+    [
+     "12:00",
+     "15:30"
+    ],
+    [
+     "19:00",
+     "22:45"
+    ]
+   ],
+   "features": [
+    "quiet"
+   ],
+   "dietary": [
+    "gluten_free"
+   ],
+   "good_for": [
+    "family",
+    "friends"
+   ],
+   "signature_dishes": [
+    "Kosha Mangsho",
+    "Shorshe Ilish",
+    "Mishti Doi"
+   ],
+   "description": "Home-style Bengali cooking, from shorshe ilish to mishti doi. A calmer outpost, good for conversation.",
+   "popularity": 0.66
+  },
+  {
+   "id": "saffron-terrace-lavelle-road",
+   "name": "Saffron Terrace, Lavelle Road",
+   "brand": "Saffron Terrace",
+   "cuisine": "Modern Indian Fine Dining",
+   "cuisines": [
+    "Modern Indian",
+    "Fine Dining"
+   ],
+   "tags": [
+    "fine dining",
+    "tasting menu",
+    "modern indian",
+    "rooftop",
+    "indian",
+    "luxury",
+    "romantic"
+   ],
+   "area": "Lavelle Road",
+   "address": "40, Lavelle Road, Bengaluru 560001",
+   "lat": 12.96695,
+   "lng": 77.59747,
+   "price_band": 4,
+   "avg_cost_for_two": 3820,
+   "rating": 4.8,
+   "reviews": 4243,
+   "seats": 50,
+   "table_mix": {
+    "2": 12,
+    "4": 5,
+    "6": 1
+   },
+   "private_dining_capacity": 11,
+   "hours": [
+    [
+     "12:30",
+     "15:00"
+    ],
+    [
+     "19:00",
+     "23:00"
+    ]
+   ],
+   "features": [
+    "bar",
+    "private_dining",
+    "quiet",
+    "rooftop",
+    "valet_parking"
+   ],
+   "dietary": [
+    "gluten_free",
+    "jain",
+    "vegan"
+   ],
+   "good_for": [
+    "date_night",
+    "business",
+    "birthday"
+   ],
+   "signature_dishes": [
+    "Nine-course Tasting Menu",
+    "Lamb Shank Nihari",
+    "Deconstructed Gulab Jamun"
+   ],
+   "description": "A rooftop tasting-menu restaurant reimagining regional Indian food. This outpost has a breezy rooftop deck. Private dining room for up to 11 guests.",
+   "popularity": 1.0
+  },
+  {
+   "id": "saffron-terrace-whitefield",
+   "name": "Saffron Terrace, Whitefield",
+   "brand": "Saffron Terrace",
+   "cuisine": "Modern Indian Fine Dining",
+   "cuisines": [
+    "Modern Indian",
+    "Fine Dining"
+   ],
+   "tags": [
+    "fine dining",
+    "tasting menu",
+    "modern indian",
+    "rooftop",
+    "indian",
+    "luxury",
+    "romantic"
+   ],
+   "area": "Whitefield",
+   "address": "335, ITPL Main Road, Whitefield, Bengaluru 560066",
+   "lat": 12.96898,
+   "lng": 77.74817,
+   "price_band": 4,
+   "avg_cost_for_two": 4250,
+   "rating": 4.6,
+   "reviews": 3481,
+   "seats": 60,
+   "table_mix": {
+    "2": 15,
+    "4": 6,
+    "6": 1
+   },
+   "private_dining_capacity": 13,
+   "hours": [
+    [
+     "12:30",
+     "15:00"
+    ],
+    [
+     "19:00",
+     "23:00"
+    ]
+   ],
+   "features": [
+    "bar",
+    "private_dining",
+    "quiet",
+    "rooftop",
+    "valet_parking"
+   ],
+   "dietary": [
+    "gluten_free",
+    "jain",
+    "vegan"
+   ],
+   "good_for": [
+    "date_night",
+    "business",
+    "birthday"
+   ],
+   "signature_dishes": [
+    "Nine-course Tasting Menu",
+    "Lamb Shank Nihari",
+    "Deconstructed Gulab Jamun"
+   ],
+   "description": "A rooftop tasting-menu restaurant reimagining regional Indian food. A calmer outpost, good for conversation. Private dining room for up to 13 guests.",
+   "popularity": 0.89
+  }
+ ]
+}
