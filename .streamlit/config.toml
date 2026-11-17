@@ -1,0 +1,33 @@
+[theme]
+base = "light"
+primaryColor = "#5B3FD6"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F6F5FB"
+textColor = "#15122B"
+borderColor = "#E6E4EF"
+linkColor = "#5B3FD6"
+font = "Inter, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif"
+headingFont = "Inter, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif"
+baseFontSize = 15
+baseRadius = "0.7rem"
+buttonRadius = "0.6rem"
+showSidebarBorder = true
+# validated categorical order (colour-blind safe): blue, orange, aqua, yellow, magenta
+chartCategoricalColors = ["#2a78d6", "#eb6834", "#1baf7a", "#eda100", "#e87ba4"]
+
+[theme.sidebar]
+backgroundColor = "#15122B"
+secondaryBackgroundColor = "#241F45"
+textColor = "#F3F1FB"
+borderColor = "#3A3560"
+primaryColor = "#FF7A1A"
+
+[server]
+headless = true
+runOnSave = false
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"
