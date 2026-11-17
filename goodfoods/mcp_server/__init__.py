@@ -1,0 +1,1 @@
+"""GoodFoods MCP server package."""
