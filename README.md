@@ -7,6 +7,7 @@ measured.**
 ![MCP](https://img.shields.io/badge/MCP-2025--11--25-1B7F4C) ![Frameworks](https://img.shields.io/badge/agent%20frameworks-none-1B7F4C)
 ![Tests](https://img.shields.io/badge/tests-passing-1B7F4C)
 
+> 🔗 **Live demo:** _add your Streamlit link here_ (hosted Llama 3.1 8B; no setup needed)  
 > 📹 **Demo video:** _add your recording link here_ (script: [docs/DEMO_SCRIPT.md](docs/DEMO_SCRIPT.md)).
 
 ![GoodFoods Concierge home screen with the animated mascot](docs/images/concierge-welcome.png)
@@ -107,6 +108,27 @@ ollama pull llama3.1:8b && .venv/bin/python -m goodfoods.agent.ollama_setup
 ```
 Add this to the client's MCP server configuration, then ask the assistant: *"Find me a table for 4 at a GoodFoods biryani place in Frazer Town tomorrow at 8."*
 </details>
+
+### ☁️ Deploy to Streamlit Community Cloud
+
+Streamlit's servers have no GPU, so the hosted app uses a hosted model instead of Ollama.
+
+1. Create an API key at [Groq](https://console.groq.com/keys) (or [OpenRouter](https://openrouter.ai/keys)), and set a
+   usage limit on it: anyone with the app link spends from this key.
+2. At [share.streamlit.io](https://share.streamlit.io), choose **Create app**, then this repository, branch `main`,
+   main file `streamlit_app.py`.
+3. Under **Advanced settings**, choose Python 3.11 and paste into **Secrets**:
+
+   ```toml
+   LLM_PROFILE = "groq-llama-3.1-8b"      # or "openrouter-llama-3.3-8b"
+   GROQ_API_KEY = "your-key-here"         # or OPENROUTER_API_KEY
+   SHOW_LOCAL_MODELS = "false"            # hide the Ollama models, which can't run there
+   ```
+
+4. Deploy. The first start builds the demo database in a few seconds. Visitors share that database, it is rebuilt
+   whenever the app restarts, and the app sleeps after a period without visitors (the first visitor wakes it).
+
+Root-level secrets are copied into the environment at start-up, so the same keys also work locally in `.env`.
 
 ---
 

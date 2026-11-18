@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 .DS_Store
 .env
+.streamlit/secrets.toml
 .pytest_cache/
 .ruff_cache/
 # generated at first run (demo database, telemetry, server logs)

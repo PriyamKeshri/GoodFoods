@@ -103,7 +103,7 @@ class LLMClient:
         """Cheap readiness probe for the UI: is the endpoint reachable and the key/model present?"""
         p = self.profile
         if p.api_key_env and not p.api_key:
-            return False, f"Set {p.api_key_env} in your environment or .env file."
+            return False, f"Set {p.api_key_env} in your environment, .env file or Streamlit Secrets."
         try:
             if p.local:
                 from goodfoods.agent.ollama_setup import VARIANTS, ensure_variant

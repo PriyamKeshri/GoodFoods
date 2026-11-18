@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import atexit
+import os
 from dataclasses import asdict
 
 import streamlit as st
@@ -44,14 +45,27 @@ def model_status(profile_key: str) -> tuple[bool, str]:
     return LLMClient(profile_key).check()
 
 
+def default_profile() -> str:
+    key = os.getenv("LLM_PROFILE", DEFAULT_PROFILE)
+    return key if key in PROFILES else next(iter(PROFILES))
+
+
 def profile_keys() -> list[str]:
-    return list(PROFILES)
+    """Models worth offering here: local ones (unless SHOW_LOCAL_MODELS=false, e.g. on a server without Ollama),
+    hosted ones whose API key is set, and a custom endpoint once LLM_MODEL is set. The default is always listed."""
+    show_local = os.getenv("SHOW_LOCAL_MODELS", "true").strip().lower() not in ("0", "false", "no")
+    keys = [key for key, p in PROFILES.items()
+            if (p.local and show_local) or (key == "custom" and p.model)
+            or (not p.local and key != "custom" and p.api_key)]
+    default = default_profile()
+    return keys if default in keys else [default, *keys]
 
 
 def init_state() -> None:
     ss = st.session_state
     ss.setdefault("messages", [])
-    ss.setdefault("profile", DEFAULT_PROFILE if DEFAULT_PROFILE in PROFILES else next(iter(PROFILES)))
+    if ss.get("profile") not in profile_keys():
+        ss.profile = default_profile()
     ss.setdefault("guardrails", True)
     ss.setdefault("show_trace", True)
 
